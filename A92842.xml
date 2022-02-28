@@ -1,0 +1,1031 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antinomianisme anatomized. Or, A glasse for the lawlesse: who deny the ruling use of the morall law unto Christians under the gospel. / By John Sedgwick, B.D. and Pastor of the Church of God at Alphag, neer Cripple-gate London.</title>
+            <author>Sedgwick, John, 1600 or 1601-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92842</idno>
+            <idno type="STC">Wing S2359</idno>
+            <idno type="STC">Thomason E63_5</idno>
+            <idno type="STC">ESTC R4740</idno>
+            <idno type="EEBO-CITATION">99872716</idno>
+            <idno type="PROQUEST">99872716</idno>
+            <idno type="VID">125162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125162)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E63[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antinomianisme anatomized. Or, A glasse for the lawlesse: who deny the ruling use of the morall law unto Christians under the gospel. / By John Sedgwick, B.D. and Pastor of the Church of God at Alphag, neer Cripple-gate London.</title>
+                  <author>Sedgwick, John, 1600 or 1601-1643.</author>
+               </titleStmt>
+               <extent>[8], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand, and are to be sold at his Shop in Pauls Churchyard at the signe of the Brazen Serpent,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Aug: 2".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antinomianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125162:1"/>
+            <pb facs="tcp:125162:1" rendition="simple:additions"/>
+            <p>Antinomianiſme ANATOMIZED. OR, A GLASSE FOR The Lawleſſe: Who deny the Ruling uſe of the Morall LAW unto Chriſtians under the GOSPEL.</p>
+            <p>By <hi>John Sedgwick,</hi> B. D. and Paſtor of the Church of God at <hi>Alphag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> neer Cripple-gate, <hi>London.</hi>
+            </p>
+            <q>It is time for thee, Lord, to work: for they have made void thy Law.</q>
+            <bibl>Pſal. 119. 126.</bibl>
+            <p>LONDON: Printed for <hi>Samuel Gellibrand,</hi> and are to be ſold at his Shop in <hi>Pauls</hi> Churchyard at the ſigne of the Brazen Serpent. 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:125162:2"/>
+            <pb facs="tcp:125162:2"/>
+            <head>To the Reader, Loving the Law of our God, and the Goſpel of <hi>Jeſus Chriſt, Faith,</hi> and <hi>Obedience.</hi>
+            </head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I looked upon the old odi<g ref="char:EOLhyphen"/>ous Hereſie of the <hi>Antino<g ref="char:EOLhyphen"/>mians</hi> (condemned by the<note place="margin">Art. 7.</note> Doctrine of our Church) ta<g ref="char:EOLhyphen"/>king the advantage of the times Diſtractions newly to revive it ſelf, and to appear with its wonted face, that cannot bluſh. I thought at firſt,
+<pb facs="tcp:125162:3"/>
+following Saint <hi>Auguſtine,</hi> to have ſaid, <hi>Non</hi>
+               <note place="margin">Cont. Petil. lib. 2.</note> 
+               <hi>in venio quomodo te refellerem, niſi ut aut jocantem irriderem, aut inſanientem dolerem:</hi> And ſo to have paſſed them over in ſi<g ref="char:EOLhyphen"/>lence: But finding the Fomenters to prevail, and the Gangrene to ſpread, eſpecially among the wea<g ref="char:EOLhyphen"/>ker, more ignorant, and rude ſort; and that whilſt ſome did ſeem to teach, they did but infect, uſing this cunning, <hi>to utter ſome Truths,</hi> to make way for their damnable Doctrines; v. g. by crying up <hi>Free Grace, Chriſts Righteouſneſſe,</hi> and <hi>Goſpel Libertie</hi> (Do<g ref="char:EOLhyphen"/>ctrines of ſingular conſequence, and great uſe, if rightly and purely opened, and ſuch as no man would ſuſpect ſhould be held out as Baits and Snares to intangle or draw men aſide from the power of Faith) to caſt down Obedience, and keep Chriſtians from their dutie to God, which ſtands in a care of keeping up their com<g ref="char:EOLhyphen"/>munion with him, obſerving of his Minde and Will laid down in his Law, Repenting and Mourning for Sin, together with a ſpeciall watchfulneſſe againſt all ſinfull courſes. I could do no leſſe then ſhew my ſelf in the Field againſt them, not in reſpect of their <note n="*" place="margin">Magis mi<g ref="char:EOLhyphen"/>ſericordià digni quam invidià.</note> Per<g ref="char:EOLhyphen"/>ſons,
+<pb facs="tcp:125162:3"/>
+but their Poſitions and Practiſes, de<g ref="char:EOLhyphen"/>ſirous to imitate thoſe two worthy Lights, <hi>Hie<g ref="char:EOLhyphen"/>rome</hi> and <hi>Auguſtine,</hi> the one ſaying, <hi>That</hi>
+               <note place="margin">Feci ut hoſtes Eccleſiae mei quoque boſtes fierent. <hi>Hier.</hi> Incompara<g ref="char:EOLhyphen"/>biliter pul<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rior eſt ve<g ref="char:EOLhyphen"/>ritas Chriſti<g ref="char:EOLhyphen"/>anorum quam <hi>Helena</hi> Grae<g ref="char:EOLhyphen"/>corum. <hi>Aug. Ep. 9.</hi>
+               </note> 
+               <hi>he made the enemies of the Church and Truth his enemies:</hi> And the other, <hi>That he made the Truths of God more precious to him, then</hi> Helene <hi>of the Grecians.</hi>
+            </p>
+            <p>I am already reſolved to bear with pati<g ref="char:EOLhyphen"/>ence (by the ſtrength of Chriſt) the hatred and the railings of the Fathers and Fautors of this Hereſie, not paſsing much their judge<g ref="char:EOLhyphen"/>ment: Well I know with <hi>Hierome, The Trueth may be blamed, but not ſhamed;</hi>
+               <note place="margin">Veritas labo<g ref="char:EOLhyphen"/>rare poteſt, vinci non poteſt.</note> And that all their approbrious words (the fruits of their Licentious Doctrine) are like to the cry of an enemy afar off; and, as Hail<g ref="char:EOLhyphen"/>ſtones which do fall down about our ears, with<g ref="char:EOLhyphen"/>out any harm: I wiſh them ſoundneſſe of head, heart, ſpeech, and Life: As for you who know and feel the power of Holy Truthes, and do deſire to walk in Jeſus Chriſt, ac<g ref="char:EOLhyphen"/>cording to the Rule of Faith and Love, laid down in the Law and Goſpel; <hi>Come and ſee: Try all things, 1 Theſ. 5. 21. Beleeve not every Spirit, but try the Spirits, whether
+<pb facs="tcp:125162:4"/>
+they are of God; becauſe many falſe pro<g ref="char:EOLhyphen"/>phets are gone out into the world, 1 John 4. 1.</hi> Be not of the fools minde, to beleeve every thing: Be not of the ſick mans minde, to be given to changes: Neither be of their mindes, who love to be picking and ſcra<g ref="char:EOLhyphen"/>ping in the dirt when heaps of corn are be<g ref="char:EOLhyphen"/>fore them: So root and ground your ſelves in the Trueth, that you be not carried away, like children with every winde of Doctrine, and endeavour ſo to behave your ſelves, <hi>That in</hi>
+               <note place="margin">Ageſilaus.</note> 
+               <hi>changes you be not changed.</hi>
+            </p>
+            <p>I hope that this enſuing Dialogue ſhall have as good ſucceſſe as the Sermons them<g ref="char:EOLhyphen"/>ſelves: The <hi>Antinomians</hi> about the Citie were ſtartled; ſome of them were convin<g ref="char:EOLhyphen"/>ced, confeſsing that they had been miſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led: other of them<g ref="char:punc">▪</g> began to be aſhamed of their own Doctrines, affirming, That they never taught againſt the Law, it was onely their hearers miſtake; wherein they have made<note place="margin">Sententias ejus prodi<g ref="char:EOLhyphen"/>diſſe, ſupe<g ref="char:EOLhyphen"/>raſſe eſt.</note> good that ſaying of <hi>Hierome, It is a ſuffici<g ref="char:EOLhyphen"/>ent confutation of Hereſie, to lay it open.</hi> I hope to hear that thoſe few Miniſters (whoſe Parts and Lives are looked upon, and into)
+<pb facs="tcp:125162:4"/>
+will be made wiſe, and in ſtead of floods of words, and ſhews of Truth (which carry reality of poiſon) to addreſſe themſelves to ſoundneſſe of Doctrine, and to a form of wholſome words, wherein they may expreſſe themſelves, and benefit thoſe poor ſouls, who yet are ſeduced and hardned by them: if they ſhall continue in this Law-deſtroying, and Dutie-caſting-down courſe, ſtill infecting and infeſting the people of God; do you, my brethren, beware of them, and withdraw your ſelves from them, as ene<g ref="char:EOLhyphen"/>mies to the ſoveraigntie of God over Chriſtians, though they hatch and vent errours, yet be not you intangled by them, <hi>Let no man be<g ref="char:EOLhyphen"/>guile you with entiſing words,</hi> Col. 2. 4. For <hi>hereby we do know that we know him, if we keep his Commandments,</hi> 1 John 2. 3. This courſe of Obedience (which is the grace of your Faith, the credit of the Goſpel, the Will of God in Jeſus Chriſt, and the main drift of the enſuing Treatiſe) keep up in Since<g ref="char:EOLhyphen"/>rity and Conſtancie, hereby you ſhall rejoyce the ſoul of</p>
+            <closer>
+               <signed>Your ſouls Servant John Sedgwick.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:125162:5"/>
+            <p>Perlegi Tractatum hunc cui Tirulus, <hi>The Anato<g ref="char:EOLhyphen"/>mie of the Antinomian,</hi> quem quia ſingulari uſui futurum Eccleſiis judico, praelo mandandum cenſeo.</p>
+            <closer>
+               <dateline>
+                  <date>Julii 27. 1643.</date>
+               </dateline>
+               <signed>Ja. Cranford.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>This Book, intituled, <hi>The Anatomie of the Antino<g ref="char:EOLhyphen"/>mian,</hi> I judge very fit to be Printed, and very neceſſary for theſe times.</p>
+            <closer>
+               <signed>Edm. Calamy.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>In Pag. 12. l. 7. for command r. declare. In p. 23. l. 29. for dot, r. doth. In p. 24. l. 2. for unfft. r. unſit. In p. 24. l. 3. for vave r. have. In p. 30. l. 7. for adminſtration r. adminiſtration. In p. 35. l. 13. for 12. r. 2. In p. 46. l. 2. for and r. which.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:125162:5"/>
+            <head>The ANATOMIE of the <hi>ANTINOMIAN.</hi>
+            </head>
+            <sp>
+               <speaker>The Nomiſt.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Y loving friend, and old acquaintance, you ſeem by your countenance to be ſomewhat vexed in minde?</p>
+            </sp>
+            <sp>
+               <speaker>The Antinomiſt.</speaker>
+               <p>I have been at your end of the Town, hearing one of your Legall Preachers, who hath Preached ſuch Stuffe as hath made me almoſt mad, I could have found in my heart to have pluckt him out of the Pulpit.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Who are thoſe whom you do ſtile Legall Preachers?</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>To ſpeak my minde freely unto you; Set aſide ſome ſix or<note place="margin">The Anti<g ref="char:EOLhyphen"/>nomians modeſt lan<g ref="char:EOLhyphen"/>guage.</note> ſeven rare Phoenixes, ſprung out of the aſhes of one Mr. <hi>Trask, Eaton, Shaw,</hi> and others of that ſtamp, I hold all the Mini<g ref="char:EOLhyphen"/>ſters in <hi>London,</hi> yea and of the whole Kingdom to be but Le<g ref="char:EOLhyphen"/>gall Preachers; for as yet the Light is not revealed to them, and they neither do or can tell how to Preach Jeſus Chriſt, or advance the free grace of God in Jeſus; they in their Preach<g ref="char:EOLhyphen"/>ing do hold men to the direction of the Law; tell them that there is an uſe of it, not onely to unbeleevers, but beleevers; they preſſe men to dutie, make them Dutie-mongers, as if that Chriſt had not done all for them.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:125162:6"/>
+               <speaker>Nomiſt.</speaker>
+               <p>Truely Sir your expreſſion is harſh, and charge deep: Can men and women of Catechized heads and broken hearts thus ſpeak? I think that your paſſion doth too far tranſport you: give me leave to tell you that the Churches of God never had any honourable opinion of the men you name, and I would have you to know that it is a great diſgrace for any Miniſter of Jeſus Chriſt not to be a Preacher of the Law, and it hath been, and ſhall be the great credit and glory of all true Miniſters, to be right Preachers of the Law.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>That I can never beleeve.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Yet you ought to beleeve it; for Chriſt himſelf, who was a Preacher of the Law, ſaith, <hi>Whoſoever therefore ſhall break one</hi>
+                  <note place="margin">The Mini<g ref="char:EOLunhyphen"/>ſters glory is to Preach the Law. <hi>Mat. 5 19.</hi>
+                  </note> 
+                  <hi>of theſe leaſt Commandments, and ſhall teach men ſo, he ſhall be called leaſt in the kingdom of heaven; but whoſoever ſhall do and teach the ſame, ſhall be called great in the kingdom of heaven:</hi> Sir, you do but bring your ſelf and Way into ſuſpition, when you give out that you are in a new Way, and led by a new Light; the wiſer and the better ſort of Chriſtians do wonder at your ignorance and pride, and they tell us that they have ſeen and known the coming in and the going out of theſe fan<g ref="char:EOLhyphen"/>cies and falſe Lights; and are ſure that ſuch whom you do cry down for Legall Preachers, are the men whoſe Miniſtery God hath uſed and bleſſed in bringing them and many thouſands to ſweet enjoyment of Jeſus Chriſt the Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>Sir, be not angry with me, I muſt tell you that your Mini<g ref="char:EOLhyphen"/>ſters are a company of Scribes and Phariſees, even ſuch who<note place="margin">The falſe accuſation of the Anti<g ref="char:EOLhyphen"/>nomians.</note> with a ſhew of Phyloſophie and vain Learning, do ſet up <hi>Moſes</hi> and cry down Chriſt; advance Dutie, and caſt down Free Grace; nay they make it their work by Preaching the Law to terrifie peoples conſciences, that thereby they may ſuck no ſmall advantage to themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Now your ſpeech bewrayeth you to be much imbittered in your ſpirit; how dare you to charge the holy ones of God
+<pb n="3" facs="tcp:125162:6"/>
+(whoſe approved integritie is manifeſt to the Churches) to be Scribes and Phariſees? give me leave to tell you, that though you ſpeak much of the Free Grace of God in Chriſt, yet unleſſe you hold (as ſome ſay you do) <hi>That you cannot ſin in ſaying what you will, or ſinning you need not to be ſorry for the ſame;</hi> This looſe language of yours will one day be trouble to your ſpirits: and further give me leave to tell you, That I ne<g ref="char:EOLhyphen"/>ver<note place="margin">The Prea<g ref="char:EOLhyphen"/>chers of the Law juſti<g ref="char:EOLhyphen"/>fied.</note> heard any Preachers more advance Jeſus Chriſt into the Throne of Redemption, or ſet up the Free Grace of God to poor beleeving penitent ſinners then our Preachers do; all of them, in their Preaching, do beat man out of himſelf, ma<g ref="char:EOLhyphen"/>king him beholding to Chriſt alone for Redemption and Salvation.</p>
+               <p>Lo, yonder is one of them coming towards us, if you pleaſe we will conferre with him about this matter, and I would have you to make your Objections and Exceptions known, for it is a good thing that the heart be eſtabliſhed in the truth.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>Content, I like well of your motion.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Sir, you are kindly welcome into our company, I perceive that you have been taking pains, may I ask you upon what ſubject you were this day?</p>
+            </sp>
+            <sp>
+               <speaker>The Evangeliſt.</speaker>
+               <p>I was upon a Morrall Law maintaining Scripture, and that becauſe we live in Morrall Law oppoſing times, there being certain men crept in among us who turn the grace of God in<g ref="char:EOLhyphen"/>to wantonneſſe, and under the colour of advancing Chriſt, do lead away ſimple men and women into looſe opinions and li<g ref="char:EOLhyphen"/>centious converſations.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Unto what Scripture did Divine Providence direct you for the beating down of this lawleſſe way?</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>It was that known Text in Romanes 3. and Verſe 31. the words are theſe; <hi>Do we then make void the Law through</hi>
+                  <note place="margin">Rom 3 31</note> 
+                  <hi>faith? God forbid, yea we eſtabliſh the Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:125162:7"/>
+               <speaker>Nomiſt.</speaker>
+               <p>What occaſioned <hi>Paul</hi> to utter theſe words?</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>The Apoſtle having in his Miniſtery denied all power to the Morrall Law to juſtifie ſinners, and avouching juſtification to be through Faith alone: there were ſome who did vainly imagine that he did render the Morrall Law uſeleſſe unto men, and hereupon they were ready to cry down all the uſe of that Law; and to ſay (as men in our dayes) <hi>Away with</hi> Moſes, <hi>Out of doors with</hi> Moſes, <hi>we beleevers can no longer abide his voice; the Law is no fit Doctrine to be taught or heard, to be be<g ref="char:EOLhyphen"/>leeued or obeyed:</hi> This injury or abuſe ready to fall upon the Doctrine, <hi>Paul</hi> takes notice of, and ſeeing that his wholſome Doctrine was turned quite out of its meaning, made to run contrary and croſſe to other uſefull and profitable Doctrines; after the raiſing of the objection (by way of anticipation or praeoccupation) he doth not onely expreſſe the abhorrencie of his Spirit, in deteſting any ſuch licentious or Law-deſtroy<g ref="char:EOLhyphen"/>ing inference, ſhewing that his heart was ſo far from cloſing with, or liking of this opinion, that it did riſe up againſt the ſame, intimated in the word, <hi>God forbid, q. d.</hi> The great and good Lord never ſuffer ſuch a thought to come into my minde: I do here take God to witneſſe, that with horrour of Spirit I do diſclaim from the ſame: but he doth alſo by a Rhetoricall inverſion turn the contrary upon the head of the objecters, and in plain tearms ſheweth, That he was ſo far from Antiquating the Doctrine of the Law, in, and by preaching the Goſpel, that the Goſpel which was Preached by him, did mightily eſtabliſh and ſtrongly confirm the Doctrine of the Law, he utterly de<g ref="char:EOLhyphen"/>nies the making void the Law by Preaching the Doctrine of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith and Free-Grace, and doth ſtiffely aſſert the authority and uſe of the Law unto Chriſtians under the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>In your opening the meaning of this Scripture, there came theſe two things into minde.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>1</label> 1. The one is mans extream wickedneſſe in Spirit, to abuſe and pervert holy and wholſome doctrines; I think, that let Doctrines be never ſo materially good or warily propounded,
+<pb n="5" facs="tcp:125162:7"/>
+ſome there be who will make ſinfull argument againſt them, or corruptly interpret and miſapply them; what is ſpoken in one ſence, men will be ready to take in another, and which way their crooked and croſſe conceits do lead, that way would they have trueth to follow; men are not willing to ſet their Watch by the Sun, but the Sun by their Watch.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>I ſubſcribe to your inference, and do conceive that this<note place="margin">4 Springs of abuſing holy Do<g ref="char:EOLhyphen"/>ctrines.</note> ariſeth;</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, from Satan, who bearing extream malice unto all holy Truthes, doth not onely ſowe tares, but blemiſheth as much as he can the good grain; from the beginning he hath been a diſturber, corrupter, and perverter of all holy and whol<g ref="char:EOLhyphen"/>ſome Doctrines.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, from mans ignorance of the nature, end, and uſe of all holy Doctrines: Learning hath no greater enemy then Ignorance; Light hath not any contrary but darkneſſe, and wholſome Doctrines no greater depraver or miſtaker then ig<g ref="char:EOLhyphen"/>norance; <hi>They ſpeak evil of thoſe things they know not.</hi>
+                  <note place="margin">Jude v. 10.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, from that horrible pride which is crept into mens mindes and hearts: Pride hath been, and is the ſeed of all the Hereſies in the world: none ever perverted Doctrine more then Hereticks, and none have been more proud then thoſe; this I have obſerved, That its the nature of Pride to be ſingu<g ref="char:EOLhyphen"/>lar in opinion, as well as in action, it will be hatching of new opinions and upſtart principles; then it bends the entire force of all its parts, to under-prop and ſwathe all the wilde and looſe births of its own fancie: next, with a ſtately inſolencie it brings abroad the Brat, vents it in publique, to the view, applauſe, and acceptation of the fooliſh and ignorant: then it begins to wry and wr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt all truths to it ſelf; which if it can<g ref="char:EOLhyphen"/>not do, it doth declaim againſt, and trample under-foot the ſame; ſcorning Articles of Churches, Determinations of Councels, Suffrages of Fathers; and which is more, the Te<g ref="char:EOLhyphen"/>ſtimony of the Scripture it ſelf.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, from mans love of licentiouſneſſe: lawleſſe liber<g ref="char:EOLhyphen"/>tie cannot ſtand within the compaſſe of ſound Doctrine; now that men may have a liberty to themſelves in ſinning, they
+<pb n="6" facs="tcp:125162:8"/>
+raiſe Objections againſt, and ſtudy the diverſions of holy Truths: the Whore blows out the candle, that ſhe may not be eſpied; the fiſh <hi>Polypus</hi> muds the water, that ſhe may not be taken; and men of looſe ſpirits do cry down and pervert ho<g ref="char:EOLhyphen"/>ly Truths, that they may the more freely ſin and be wicked. But I pray you what is the other thing you took notice of?</p>
+            </sp>
+            <sp>
+               <speaker>Nomist.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> 2. The ſecond is this; The right temper of a gracious and well informed ſpirit, which is to make all unſound and licen<g ref="char:EOLhyphen"/>tious Inferences from holy Doctrines, hatefull and diſpleaſing to it ſelf. I ſee the tenderneſſe of <hi>Pauls</hi> ſpirit rejecting with Apoſtolicall indignation, the lawleſſe Inference of vain men.</p>
+            </sp>
+            <sp>
+               <speaker>Evangelist.</speaker>
+               <p>You have ſpoken the truth, and each Chriſtian ſhould learn from the Apoſtle, 1. In his judgement to diſallow. 2. With his heart to abominate. 3. By his ſpeech to declaim againſt. 4. By all endeavours to ſuppreſſe and ſilence all falſe deducti<g ref="char:EOLhyphen"/>ons from holy Doctrines: Truth ſhould be precious and love<g ref="char:EOLhyphen"/>ly to us, but errour vile and abominable; we are enemies to Truth, ſo far as we are friends with errour: Oh that men would know, That it is a great ſin to be taken with odde and new Opinions, and to forſake old Truths for new errours: I wiſh that you and all my friends would try before you truſt; winter and ſummer new men, and their new doctrines, Bring them to the Law and the Teſtimony.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>I thank you for this help; and now I ſhall deſire you to o<g ref="char:EOLhyphen"/>pen to me the tearms of the Text: which being truely done, will give much ſatisfaction to ſuch who ſeek the truth in love. I pray tell me what doth the Apoſtle mean by faith, which is the thing that doth not make void the Law?</p>
+            </sp>
+            <sp>
+               <speaker>Evangelist.</speaker>
+               <p>There can be but one of theſe two meanings in the word; either we take it for habituall and actuall faith, which is cal<g ref="char:EOLhyphen"/>led<note place="margin">A double Faith. 1. Habituall.</note> 
+                  <hi>fides qua;</hi> namely, That grace wrought by the Spirit in the ſoul, inclining it to the application of Jeſus Chriſt, and his righteouſneſſe; which grace is the condition of the Covenant of grace, and the appointed Inſtrument to apprehend juſtify<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:125162:8"/>
+righteouſneſſe, as along in this Scripture the Apoſtle ſhew<g ref="char:EOLhyphen"/>eth: Or we muſt take it for Doctrinall Faith, which is called<note place="margin">2 Doctri<g ref="char:EOLhyphen"/>nall.</note> 
+                  <hi>fides quae;</hi> namely, That Goſpel or Covenant Doctrine<g ref="char:punc">▪</g> which propounded free grace, ſets up Jeſus Chriſt in all his Offices, Merits, and Vertues to poor believing ſinners: Now take the Apoſtle either way, and he holds, That neither the grace of Faith, nor the doctrine of Faith, doth make void the Law of God.</p>
+            </sp>
+            <sp>
+               <speaker>Nomist.</speaker>
+               <p>Tell me what is that Law which this Faith doth not make void?</p>
+            </sp>
+            <sp>
+               <speaker>Evangelist.</speaker>
+               <p>You muſt know that there were three ſorts of Laws deli<g ref="char:EOLhyphen"/>vered<note place="margin">A threefold Law.</note> by God to <hi>Moſes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <p>1. Ceremoniall; which were temporary Ordinances and Rites really pointing to Chriſt, of whom they were figures and ſhadows; and by whoſe preſence and death they were all fulfilled, terminated and abrogated; Chriſt was <hi>finis inter ficiens legis Ceremonialis;</hi> ſo that the law of Ceremonies was made void by the Doctrine of faith, and therefore this law can<g ref="char:EOLhyphen"/>not be here meant.</p>
+               <p>2. Judiciall, which were peculiar Ordinances given by God to <hi>Moſes,</hi> for the well ordering of the Common-wealth of <hi>Iſrael.</hi>
+               </p>
+               <p>This Law concerned the Jews not ſimply, as men, but as Jews; the Nationall, perſonall, or particular binding right of this Law reſted ſo in them, that it died with the decay of their Common-wealth: onely the common equity or right hereof remaineth (<hi>i</hi>) as far as it was grounded on the Law of Nature, ſerved directly to confirm any of the Ten Commandments, or to uphold the good of Family, Church, or Common-wealth, it is ſtill in force, and of good uſe; but of this Law the Apoſtle in this Scripture makes no mention: Now if he ſpeak not of the Law Ceremoniall, nor of the Law Judiciall, it followeth that we muſt underſtand him ſpeaking of the Law—</p>
+               <p>3. Morrall, and that not as it is a rule of Juſtification, but a rule of Service and Obedience; the whole compaſſe of mans duty reſpectively to be manifeſted, is principally contained in
+<pb n="8" facs="tcp:125162:9"/>
+the Law Morrall; which is no other then <hi>the revealed Copy of</hi>
+                  <note place="margin">The Morall Law, what.</note> 
+                  <hi>Gods will touching mans dutie, laid down in the ten Command<g ref="char:EOLhyphen"/>ments:</hi> if we do caſt our eyes upon the ſcope of the Apoſtle, it will be very evident that he ſpeaketh of this Law; for he deals againſt ſuch who ſought to be juſtified and ſaved by the works of the Law, and not by faith in Jeſus Chriſt; they went about to ſet up the Law of Works, and to deſtroy the Law of Faith. Now <hi>Paul</hi> ſheweth that no mans conformity to the Morall Law could be matter of life and juſtification unto him in Gods ſight; The Law, by ſin, is become weak and unprofit<g ref="char:EOLhyphen"/>able to the purpoſe of righteouſneſſe, it could not be a cove<g ref="char:EOLhyphen"/>nant of life unto man; now having excluded it from being a covenant of life to ſinners, there were thoſe who would have it to be diſannulled from being a rule of life unto men, which the Apoſtle will not admit of, ſo that its plain that the vin<g ref="char:EOLhyphen"/>dication is of the Morall Law, that, as a rule of life is not made void unto Chriſtians.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>How ſhall I underſtand the Apoſtle when he denieth the making void of the Law by Faith?</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>I ſhall open it thus unto you.</p>
+               <p n="1">1. By ſhewing to you what it is to make void the Law; which doth note, <hi>The taking away from the Law all regulating or directive power over mans life and actions;</hi> when it is held to be uſeleſſe, or of no more effect unto Chriſtians then an Alma<g ref="char:EOLhyphen"/>nack<note place="margin">The making void the Law, what.</note> that is out of date; or to be a Doctrine inconſiſtent with, or repugnant unto the Doctrine of Free Grace, this is the making of it void: Now then take it up thus, That the Do<g ref="char:EOLhyphen"/>ctrine of the Goſpel and the Doctrine of the Law, though for matter they are diſtinct and divers, y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t they are not ſo divided and oppoſite, but that they both may be well admitted into the Miniſtery, and taught unto Chriſtians; they are ſo farre from reall contradiction, that they ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d a friendly concurrence in point of dutie; they are not deſtructive nor devouring one unto another, but ſweetly co-ordinate, ſtanding more firmly one by the other.</p>
+               <p n="2">2. By declaring whether the Morall Law in no reſpect is not
+<pb n="9" facs="tcp:125162:9"/>
+made void by the Doctrine and grace of Faith: And here con<g ref="char:EOLhyphen"/>ſider, if we look upon the Morall Law in that notion as it was given to <hi>Adam</hi> in Paradice, I mean as it was a Covenant of Works, or as the Covenant thereof was Works; ſo that who<g ref="char:EOLhyphen"/>ſoever would receive life and ſalvation, muſt perform perfect obedience to the ſame, according as it is written, <hi>He that doth</hi>
+                  <note place="margin">Gal 3. 12.</note> 
+                  <hi>theſe things ſhall live in them.</hi> And again, <hi>Moſes deſcribes the</hi>
+                  <note place="margin">Rom. 10 5</note> 
+                  <hi>righteouſneſſe which is of the Law, That the man which doth theſe things ſhall live by them:</hi> in this ſence as it was given to <hi>Adam</hi> in Paradice to juſtifie or ſave men, the Doctrine of Faith doth make void the Morall Law. I will not ſtand diſputing, whe<g ref="char:EOLhyphen"/>ther the Law, as given by <hi>Moſes,</hi> could have given life and righteouſneſſe; or whether God did primarily intend in pub<g ref="char:EOLhyphen"/>lſhing this Law by <hi>Moſes</hi> on mount Sinai, to ſend man to fetch his life out of the Law; this we know, that what ever ſtrength there is in the Law <hi>ex ſe.</hi> Yet by reaſon of ſin it is weakned, and it is impoſſible that life and ſalvation ſhould come to man by it, as the caſe now ſtands: it was long ſince concluded. <hi>That by the Works of the Law, there ſhall no</hi>
+                  <note place="margin">Rom 3 20.</note> 
+                  <hi>fleſh be juſtified in his ſight.</hi> And <hi>Paul</hi> confeſſeth, <hi>We are be<g ref="char:EOLhyphen"/>come</hi>
+                  <note place="margin">Rom. 7. 4. Gal 2. 19.</note> 
+                  <hi>dead to the Law by the body of Chriſt:</hi> And again, <hi>I through the Law am dead to the Law:</hi> We conſtantly teach, That every Chriſtian by the Goſpel, is freed from expecting life by any obedience to the Law. Again, if we look upon the Morall Law in its execration, and as it is enabled with a power to curſe men to hell for their ſins; I ſay, as it is a ſentencing, kil<g ref="char:EOLhyphen"/>ling, and death-miniſtring Letter, the Goſpel hath made it void unto beleevers; it hath no power to faſten the curſe of heaven upon the perſon of any beleever; though all their ſins are curſed ſins, even ſuch as deſerve the grand curſes of the Law, yet no curſe for ſin can come from the Law upon them; the curſe of the Law ſeized on Chriſt to the utmoſt, that the bleſſing might befall them: Further, if we ſhall look upon the Law in its ſtrictneſſe and rigour, as it hath a power to challenge and exact a punctuall and perſonall obedience to it ſelf, with<g ref="char:EOLhyphen"/>out which, it allows no man favour with God, or life from<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Rom 8. 4.</note> God, then it is alſo made void by the Doctrine of Faith, the right and ſtrictneſſe of the Law is fulfilled in us by our ſurety,
+<pb n="10" facs="tcp:125162:10"/>
+its not expected that it ſhould be fulfilled by us in our own perſons. Beſides, if we ſhall conſider the Morall Law in its coactive or coercive power, as it doth by fears and terrours wrought in the conſcience, urge and conſtrain an obedience to it ſelf, making men and women ſervile and ſlaviſh in all acts of dutie; thus is it made void to beleevers under the Goſpel: I do not conceive that the Spirit of bondage, or the Spirit of fear, or the Spirit of unwillingneſſe, laies ſo upon a beleever, that he muſt be forced to do required ſervice; nay, rather he is a Law unto himſelf, willingly performing what is right and required, <hi>Luke 1. 74. Rom. 8. 15. 1 Tim. 1. 9. 2 Tim. 1. 7. 1 Joh. 5. 3. For this is the Love of God, that we keep his Command<g ref="char:EOLhyphen"/>ments; and his Commandments are not grievous.</hi> To conclude, if we ſhall conſider the Law Morall in its irritation, as it hath in it an accidentall or occaſionall ſecret ſin-provoking, enra<g ref="char:EOLhyphen"/>ging, or exaſperating power, whereby it ſtirs up in men an earneſtneſſe to the commiſſion of ſin; thus is it made void to the beleever. Conſider, that the Morall Law is not ſin, nor was it ordained to beget ſin, it is holy, and juſt, and good: <hi>Rom.</hi> 7. 12. Yet ſuch is the venemous and malicious quality which is in ſin, remaining in mans nature, that if you for bid man any thing, or limit him to do this or that dutie, now his luſt riſeth up the more to deſire that which is forbidden, and ſwells over all the banks and baies which ſhould confine it; according to the old ſayings, <hi>Nitimur in vetitum, ſemper cupi<g ref="char:EOLhyphen"/>muſque negata: Gens humana ruit in vetitum nefas;</hi> Men do many things which they would never have done, had not God forbidden the ſame: Our baſe natures take occaſions from an holy Law to do wickedly; this ſtirs them up to be more wic<g ref="char:EOLhyphen"/>ked; but now luſt hath no more ſuch working in beleevers from the Law, the Law cannot provoke a godly man to be more wicked; nay, rather if he ſee any commandment of God againſt him, it is a ſufficient diſcouragement to him to for bear that ſin; with <hi>Joſeph</hi> he ſaith, <hi>How can I do this great wickedneſſe</hi>
+                  <note place="margin">Gen. 39 9.</note> 
+                  <hi>and ſin againſt God?</hi>
+               </p>
+               <p n="3">3. By ſhewing to you in what reſpects, and unto whom the Morall Law is not made void by the Goſpel. And here we ſhall conſider the Morall Law four wayes.</p>
+               <p>
+                  <pb n="11" facs="tcp:125162:10"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, in its Minatory part; as it doth menace and threaten<note place="margin">The Morall Law not made void four wayes.</note> men offending or tranſgreſſing: the Doctrine of the Goſpel doth not diſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le the Law from threatning ſinners, and telling them of the evil of puniſhment which is due to them for the evil of ſinning; We read how <hi>Paul</hi> once and again doth turn the flaming ſword of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw againſt his hearers; in one place telling them, That <hi>if they live after the fleſh, they ſhould die, Rom.</hi> 8. 13. And in another place he faith, <hi>Knowing the terrour of the Lord, we perſwade mer, 2 Cor.</hi> 5. 11. I conceive, that the threats of the Law are of much good uſe to the ſons and daughters of men: They do awaken and rouze them out of their ſecuritie and ſinfulneſſe; I am of his opinion who would<note place="margin">Chryſoſto<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> have hell preached daily unto men, being perſwaded it would prove an excellent means to keep many out of hell: When I look upon that body of ſin which remaineth in the beſt; I can<g ref="char:EOLhyphen"/>not ſee but the threats of the Law may be of good uſe unto them; not that I fancie Chriſtians ſhould be carried into, and along duty, by a ſpirit of fear, as ſlaves; that they muſt have the rod ſhaking over them, or elſe they cannot, or will not do dutie: I know that they are led by a more free and ingenuous Spirit, into acts of dutie; namely, by the Law of Love: yet let me tell you, That the carnall and unregenerate part of the godly, needs this whip and harſh voice of the Law; and I ſee no reaſon but a Chriſtian may make that motive to himſelf which God makes motive unto him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, in its Promiſſory part, as it doth propound many and great rewards unto the ſons of men. I finde that the Law doth not onely threaten, thereby to terrifie men from ſinning; but it doth alſo propound and promiſe unto the ſons of men certain rewards, thereby to allure and draw them in to dutie: we reade of <hi>ſhewing mercy to thouſands of them that love him, and keep his commandments:</hi> And again, the fifth Com<g ref="char:EOLhyphen"/>mandment is called, <hi>The firſt Commandment with promiſe, Epheſ.</hi> 6. 2. Surely the Doctrine of Faith doth not make void theſe promiſes in the Law; nay, it gives the Law a power to promiſe, and alloweth that men may ſet the joy before them, and have an eye to the recompence of reward, though not chi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fly and principally, or in a way of merit.</p>
+               <p>
+                  <pb n="12" facs="tcp:125162:11"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, in its Mandatory part; and ſo it hath a power:
+<list>
+                     <item>1. Of Declaration, to reveal and make known the will of God touching duties, to teach, tell, and acquaint men with the ſame; hence it is called a Lamp and a Light: the Goſpel doth continue it to be an eternall Doctrine, teach<g ref="char:EOLhyphen"/>ing men what to do, and how to live.</item>
+                     <item>2. Of Obligation; it doth not onely command things honeſt and to be done, but it doth tie men to yeeld obe<g ref="char:EOLhyphen"/>dience to it ſelf for the Law-givers ſake; hence it is called, <hi>Lex a Ligando:</hi> for if you deſtroy the Obligation of the Law you make void the Law:</item>
+                  </list>
+               </p>
+               <p>Now the Goſpel will have it to be a ruling, commanding, and binding Law unto Chriſtians, it doth ſet up the authority of the Law Morall, making it to be a Law indeed.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, in its Preparatory part and Office; you muſt know that the Morall Law is a <hi>John the Baptiſt,</hi> to make way for Chriſt, a manuduction to Chriſt and Faith; <hi>Paul</hi> ſaith, <hi>Wherefore the Law was our School-maſter to bring us to Chriſt, that we might be juſtified by Faith, Gal.</hi> 3. 24. I do not ſay that the Law formally doth beget Faith in Chriſt, it doth it onely by way of Preparation and manuduction, and that partly as it doth convince men of ſin, laying open to them that exceed<g ref="char:EOLhyphen"/>ing wickedneſſe which lieth upon the ſoul; <hi>By the Law com<g ref="char:EOLhyphen"/>eth the knowledge of ſin, Rom.</hi> 3. 20. And, <hi>I had not known that lust had been ſin, unleſſe the Law had ſaid, Thou ſhalt not covet, Rom.</hi> 7. 7. Hence is it compared to a glaſſe, whoſe propertie is to repreſent thoſe objects that preſent themſelves before it in all their colours; thus the holy Law doth yeeld up unto men by way of reflection, the true and certain face and nature of their ſinfulneſſe, it layes ſin out and open in its true proportion and countenance; the light doth not more demonſtrate viſible objects then the Law (which is the candle of the Lord) doth make known ſins, and that by the help of ſpirit, and the uſe of conſcience, partly as it doth deject and humble men for ſin: the Law doth ſo open the debt and death of ſin to the ſoul, that it ſees it ſelf incloſed with the curſe that belongs to ſin; and that Divine wrath is ready to pour it ſelf o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, and how to avoid the ſame he knows not; he is as a man ſhut up in a cloſe
+<pb n="13" facs="tcp:125162:11"/>
+room, having his mortall enemy ſtanding at the door with a drawn ſword in his hand; entring upon him, thus the Law falls upon the conſcience of a ſinner, whipping and torment<g ref="char:EOLhyphen"/>ing him; loading and burdening him; laying him as it were upon the mouth of hell, paſſing the doom of damnation upon him, from which it can of it ſelf no way deliver it ſelf; it leaves him a ſinner without a Saviour, without all hope of ſal<g ref="char:EOLhyphen"/>vation: Onely it is brought to this wiſhing, O that there were any poſſiibility of mercy, that I might be ſaved from this condition of inſufferable miſery. Again, we may conſider the<note place="margin">The Law is not made void: 1. To un<g ref="char:EOLhyphen"/>believers.</note> ſubjects in reſpect of whom the Law is not made void, and they are of two ſorts.</p>
+               <p n="1">1. Unbeleevers, who are yet in the ſtate of nature, and to ſuch the Law is enlightning, a wakening, judging, and terri<g ref="char:EOLhyphen"/>fying, through the application of the curſe and wrath; <hi>The</hi>
+                  <note place="margin">1 Tim 1. 9</note> 
+                  <hi>Law is made for the lawleſſe and diſobedient, for the ungodly and for ſinners, &amp;c.</hi> It is their whip and rod to ſcourge them.</p>
+               <p n="2">2. Beleevers, who are under Grace and Love; and to ſuch<note place="margin">2. To belie<g ref="char:EOLhyphen"/>vers.</note> it is a glaſſe, diſcovering their many hidden corruptions, by which they may daily try and examine themſelves, it is their bridle, to cohibite and reſtrain them from ſinning; it is their hedge and mound to keep them in order and due compaſſe; in a word it is their rule, by which they are to guide and mode<g ref="char:EOLhyphen"/>rate the inward and the outward converſation of ſoul and life: And thus far it is not made void by the Doctrine of the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Will you be pleaſed to demonſtrate this a little farther unto me and my friend?</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>I ſhall proove unto you that the Doctrine of Faith doth not make void the doctrine and duty of the Morall Law, by theſe ten inſtances.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> 1. The Law Morall was given to <hi>Adam</hi> in the ſtate of in<g ref="char:EOLhyphen"/>nocencie; I ſay that <hi>Adam</hi> in the ſtate of integrity was not without a Law, nay nor without this Law, for the ſubſtance of it; though he was a righ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eous man, and in his height of
+<pb n="14" facs="tcp:125162:12"/>
+dignity, yet he was commanded by the will of God, and his work was to be ruled by the precept of God in all things; as you may read, <hi>Gen.</hi> 3 16. The Law Morall, and the Law gi<g ref="char:EOLhyphen"/>ven to <hi>Adam,</hi> was the ſame Law for the matter of duty, as I look upon the Law given to <hi>Adam</hi> for a covenant of life and ſalvation, God intending to give, and tying him to expect life upon, and for his obedience, and withall do conſider that God in juſtice might have h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld his poſterity to the ſame condi<g ref="char:EOLhyphen"/>tion and covenant of works; here I conceive that the Law given to <hi>Adam,</hi> and the Law received by <hi>Moſes,</hi> are not one and the ſame; for I think that God never intended that the Law given by <hi>Moſes</hi> ſhould become a Covenant of Works unto the ſons of men: nay, we finde that there were mercifull and Evangelicall intentions in God in giving the ſame, as may appear in the Preface to the Commandments; in his Preaching Chriſt to <hi>Adam</hi> in Paradice immediatly upon the fall; and in his ordering that it ſhould be a means to beat man out of himſelf, and to bring him unto Chriſt: Yet when I look upon <hi>Adams</hi> Law, as it was a rule of life and obedience unto him, in this reſpect they do agree; virtually the Law gi<g ref="char:EOLhyphen"/>ven to <hi>Adam</hi> and received by <hi>Moſes</hi> was one and the ſame, the minde of God for dutie being conſtant and perpetuall, one at all times, and in all places; according as we pray, <hi>Thy will be done on earth as it is in heaven.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, <hi>Mans natur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath this Law written and engraven indelebly in it:</hi> I will not diſpute whether the Law of Nature be a relique of the old image left in <hi>Adam;</hi> of this I am ſure, <hi>That the Gentiles which have not the Law, do by nature the things</hi>
+                  <note place="margin">Rom 2. 14</note> 
+                  <hi>contained in the Law: theſe having not the Law, are a Law unto</hi>
+                  <note place="margin">15</note> 
+                  <hi>themſelves, which ſhew the work of the Law written in their hearts.</hi> Out of which Scripture, it is clear, that God preſently upon the Fall, planted in the heart of all mankinde, not onely<note place="margin">The Law of Nature, what.</note> an opinion of Divine Soveraignty and authority; but a know<g ref="char:EOLhyphen"/>ledge of certain practicall Principles, in an obliging and pro<g ref="char:EOLhyphen"/>ſecuting way: Thus in a word, the underſtanding and judge<g ref="char:EOLhyphen"/>ment (which is called the Speculative facultie) was, and is enabled with an apprehenſion and conception of things to be done and to be forborn, as their honeſtie and diſhoneſtie did
+<pb n="15" facs="tcp:125162:12"/>
+appear: the conſcience and will (which is called the Practi<g ref="char:EOLhyphen"/>call facultie) had imprinted on it a deſire or endeavour to pro<g ref="char:EOLhyphen"/>ſecute all thoſe things which ſhould be revealed to the under<g ref="char:EOLhyphen"/>ſtanding; they reaſoned from their light, to their life, inferring the practice of all revealed principles, <hi>Mat. 7. 12.</hi>
+               </p>
+               <p>Now this Law had ſuch a firm and faſt engraving in man<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> underſtanding and conſcience by God himſelf, that iniquity it ſelf cannot eradicate or obliterate the ſame; it is written in mans nature as <hi>with a pen of iron,</hi> for ever to remain with the nature of mankinde; and this is no other then a Summary or Abridgement of the Morall Law; for the Law of <hi>Moſes</hi> writ<g ref="char:EOLhyphen"/>ten in Tables of ſtone, materially is no other then what was written or imprinted in the heart; according to the rule, <hi>Prae<g ref="char:EOLhyphen"/>cepta Decalogi ſunt explicationes juris naturae;</hi> The Law Mo<g ref="char:EOLhyphen"/>rall<note place="margin">The differ<g ref="char:EOLhyphen"/>ence that is between the Law of Nature and the Law of Adam and Moſes<g ref="char:punc">▪</g>
+                  </note> is the explication of the Law Naturall. I grant that this Law of Nature, by reaſon of mans corruption and prepoſte<g ref="char:EOLhyphen"/>rouſneſſe of affection, is not ſo clear, perfect, and eaſie, as was the Law in Creation to <hi>Adam;</hi> for he had in his created eſtate a more ſhining light, quick apprehenſion, ſteadie will, and able reſolution, then his poſterity naturally now have; nay, this Law of Nature doth in many circumſtances differ from the Law Morall; <hi>v. g.</hi> This we have by infuſion, that by publike voice; This is written in tables of fleſh, that in tables of ſtone; This containeth dutie impliedly, without method and order, that expreſly and orderly, &amp;c. The Argument lies thus, If God hath indelebly written the Morall Law in mans nature, then the Doctrine of the Goſpel doth not make it void: but God, &amp;c.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, <hi>The Morall Law is a Doctrine ſpirituall, holy, good, juſt, and perfectly containing the good and acceptable will of God,</hi> and therefore not to be made void; that it is a Doctrine, the Hebrew word <hi>Torah</hi> will make evident, it being derived of <hi>Horah,</hi> which ſignifies to teach and to inſtruct, how to live, and how to walk; even as a School-maſter doth teach his Scholers what is evil, and how to avoid it; what is good, and how to do it; that it is ſpirituall, holy, good, and juſt; The<note place="margin">Rom. 7. 12, 14.</note> Apoſtle ſaith, <hi>We know that the Law is ſpirituall;</hi> And, <hi>Where<g ref="char:EOLhyphen"/>fore the commandment is holy, and juſt, and good:</hi> And thus it is
+<pb n="16" facs="tcp:125162:13"/>
+not onely originally as the holy, good, and juſt God, who is a ſpirit, is the Authour of it; but alſo materially, and effective<g ref="char:EOLhyphen"/>ly, it is pure and undefiled, free from all ſtain of errour and falſhood, having not the leaſt iniquity cleaving to it, it carri<g ref="char:EOLhyphen"/>eth in it the good and acceptable will of God, it is indeed the wiſdom and the will of God; the Law is not good, and then willed of God; but it is good, becauſe it is willed of God; whoſe will alone is the rule of all goodneſſe; yea, and men by it become Spirituall, holy, good, and juſt: Now if it be every way abſolute and perfect (as it is ſtiled, <hi>The perfect Law of Li<g ref="char:EOLhyphen"/>berty</hi>) there can be no reaſon rendred why it ſhould be abo<g ref="char:EOLhyphen"/>liſhed; I conceive that the law-Maker was in wiſdom infi<g ref="char:EOLhyphen"/>nite, and ſo he did foreſee before-hand how to prevent any in<g ref="char:EOLhyphen"/>convenience which might fall upon it, and become a reaſon to abrogate it: ſhew me the leaſt flaw in the Morall Law, as it ſtands a rule for duty, and then you may talk rationally of diſ<g ref="char:EOLhyphen"/>annulling it: Will you take upon you to make void and of none effect that which is holy and good?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>4</label> Fourthly, the Morall Law of God is perpetuall and un<g ref="char:EOLhyphen"/>changeable, even that which muſt <hi>endure for ever, Pſal.</hi> 119. 89. Chriſt ſaith, <hi>Till heaven and earth paſſe, one jot, or one tittle ſhall in no wiſe paſſe from the Law, Mat.</hi> 5. 18. It is of an un<g ref="char:EOLhyphen"/>periſhing nature; you may as ſoon deſtroy God himſelf, as de<g ref="char:EOLhyphen"/>ſtroy that: though mans Laws may be repealed, Gods Laws admit of no repeal; had it been a temporary Ordinance, then it might have been made void.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>5</label> Fifthly, <hi>The Law is univerſally extenſive:</hi> The commands thereof are commands to all Chriſtians, in all ages: now look how farre any Commandment extends, ſo farre doth obedience thereunto extend it ſelf: If the Morall Law reach to us Chri<g ref="char:EOLhyphen"/>ſtians as well as to the Jews, then we ſtand obliged by it: now to make it evident that this Law concerned all men, even us<note place="margin">The exten<g ref="char:EOLhyphen"/>ſiveneſſe of the Law to Jews and Gentiles.</note> Chriſtians under the Goſpel, conſider 1. The Morall Law was no Type of Chriſt, neither did it concern the Jew onely as he was a Jew; if ſo, then the Jew onely did ſin in Idolatry and Adultery, and the Gentiles did not: I demand, What Law of God did forbid theſe ſins? Did not the Morall Law? It did. And will you ſay that the Jew onely was tied to it? If he was
+<pb n="17" facs="tcp:125162:13"/>
+not, then the Gentiles came in alſo, and ſo the Commandment concerned them, which muſt be yeelded, unleſſe you will ſay that the Gentiles did not ſin by Idolatry, Adultery, &amp;c. 2. The Gentiles heretofore did, and Chriſtians now do ſin in breaking the Morall Law; for all <hi>ſin is the tranſgreſſion of the</hi>
+                  <note place="margin">1 Jo. 3. 4.</note> 
+                  <hi>Law.</hi> Now if they were not bound to keep the Morall Pre<g ref="char:EOLhyphen"/>cepts, they did not and could not offend; ſuch muſt hold that beleevers cannot, and do not ſin, who make void the Law unto beleevers; the Apoſtle ſheweth that <hi>the Morall Law concludes all under ſin;</hi> now that Law which concludes all men to have ſinned, concludes that all men have broken that Law; if it con<g ref="char:EOLhyphen"/>clude that Jews and Gentiles have ſinned and broken it, then it extends it ſelf to them. 3. If the Commandments of the Morall Law do not equally and univerſally binde men to their obſervance, then the curſe threatned upon the breach of that Law, doth not appertain equally and univerſally to them; for we read, <hi>Curſed is every one that continueth not in all things which are written in the book of the Law to do them, Gal.</hi> 3. 10. Here I would ask a <hi>proud Antinomiſt,</hi> Doth the curſe of the Law belong to all men, yea or no? If it doth, then the Law concerns us Chriſtians; if he ſhall ſay, It doth not; then I affirm, That he denieth his part in Chriſt; it being written, <hi>Chriſt hath redeemed us from the Curſe of the Law, being made a</hi>
+                  <note place="margin">Gal. 3. 13.</note> 
+                  <hi>curſe for us.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>6</label> Sixthly, <hi>The ſpirit of God doth write this Law in the hearts of all God; children;</hi> according to the promiſe, <hi>I will put my Law</hi>
+                  <note place="margin">Jer. 31. 33.</note> 
+                  <hi>into their inward parts, and write it in their hearts.</hi> If any ſhall ſcruple at the expreſſion, and think that by this Law is not meant the Morall Law. I would deſire them to conſider what the Prophet <hi>Ez<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kiel</hi> ſaith, <hi>I will put my Spirit within you, and cauſe you to walk in my Statutes, and ye ſhall keep my judgements, and do them, Ezek.</hi> 36. 27. I pray note. 1. That the Spirit<note place="margin">The Spirit writing the Law, what.</note> makes it his work to convey the minde of God in the Law in<g ref="char:EOLhyphen"/>to the minde of every Chriſtian, he doth by an enlightning act ſufficiently inſtruct them in Gods authority over them, and his will concerning them. 2. That the Spirit doth by an act of efficacy engrave and write the Law in their hearts, which is no other thing then <hi>the faſtening of the power and authority of
+<pb n="18" facs="tcp:125162:14"/>
+the Law, together with a dispoſition to obedience upon the heart, ſo that the heart ſhall be no more contrary to it, but ſweetly concur<g ref="char:EOLhyphen"/>ring with it.</hi> I mean there ſhall be found theſe four things in a Chriſtian.</p>
+               <p n="1">1. Obedientiall apprehenſion; which is the baſis and ground of all duty to God; for without a clear and diſtinct know<g ref="char:EOLhyphen"/>ledge, and a ſpirituall diſcerning of the inward meaning, and binding power of Gods Commandments, a man ſhall never ſubmit to the Law of God, as the onely rule of life and obedience.</p>
+               <p n="2">2. Obedientiall diſpoſition; the frame of the heart ſhall be fitted unto acts of obedience, and the diſpoſition ſweetly inclined to take up the yoke of all Divine injunctions, ſo that with <hi>David</hi> they ſhall ſay, <hi>I am ready to do thy will, O my God,</hi>
+                  <note place="margin">I<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 40. 8.</note> 
+                  <hi>yea thy Law is within my heart.</hi>
+               </p>
+               <p n="3">3. Obedientiall deſire; ſuch have wrought in them ſolid deſires, that the goings and ſteps of their hearts and lives, may be anſwerably ſuited and matched with the righteous and pure Laws of God, and all ſwerving from the ſame are grievous to them, as being contrary to their minde and will; they wiſh with <hi>David<g ref="char:punc">▪</g> O that my wayes were directed to keep thy Statut<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi>
+                  <note place="margin">Iſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 19 5</note> and it is with them, as it was with <hi>Paul, Who did conſent to the</hi>
+                  <note place="margin">Rom 7 19.</note> 
+                  <hi>Law in his ſoul,</hi> though he did ſwerve from the ſame in many particular actions: the Spirit works this temper in the godly, that there ſhall be an equall latitude between Gods Precepts and his deſires (<hi>i</hi>) though there be much dutie which a Chriſtian cannot do, yet there is no dutie but he would do: he ſaith, I would keep good Laws, but alwayes I do not keep them; or, alwayes I do not, yet alwayes I would obey.</p>
+               <p n="4">4. Obedientiall expreſſion; the life of obedience is the obedience of the life, and therefore the Spirit draws them out, not onely into an outward profeſſion, but a ſincere and reall practiſe of obedience; that as the will, ſo the deed; as the heart, ſo the hand ſhall be theirs; they ſhall be made to put out their ſtrength, imploy their endeavours, and to overcome themſelves, that they may obey the commands of heaven: Now is this the work of the Spirit on the godly, and ſhall we imagine that the Law is made void?</p>
+               <p>
+                  <pb n="19" facs="tcp:125162:14"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>7</label> Seventhly, <hi>Chriſt himſelf hath eſtabliſhed and ratified the Mo<g ref="char:EOLhyphen"/>rall Law for a Doctrine of obedience;</hi> he doth profeſſe that he<note place="margin">Mat. 5. 17.</note> came not to deſtroy; or to put a period to it, but to fulfill it; now the fulfilling of it, is not the deſtroying of it; and if it be not deſtroyed by Chriſt, then it remains the Law ſtill; and if a Law, it bindes us to obedience: Nay, Chriſt made it his<note place="margin">4 Actions of Chriſt about the Law.</note> work in his Preaching to vindicate and aſſert the genuine and proper ſence of the Law, from the Phariſees corrupt, and im<g ref="char:EOLhyphen"/>poſed gloſſes and interpretations: further, he became himſelf a patern and an example of obedience to the rule of the Morall Law, in no one point ſwerving from the direction thereof: and in a word, he did frequently enjoyn men the right ob<g ref="char:EOLhyphen"/>ſervation of the Law, according as <hi>Moſes</hi> had done before him.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>8</label> Eighthly, <hi>The Apoſtles of Jeſus Chriſt have maintained the Doctrine of the Law, in the o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ligation thereof unto dutie:</hi> be<g ref="char:EOLhyphen"/>ſides the Text now opening to you; Conſider, how often doth he ſay, <hi>Love is the fulfilling of the Law:</hi> What frequent<note place="margin">Rom. 13.</note> recitals are there of the Commandments of God in the Epi<g ref="char:EOLhyphen"/>ſtles? The Apoſtle preſſeth on children the dutie of reverence unto their Parents from the fifth Commandment, ſaying, <hi>Ho<g ref="char:EOLhyphen"/>nour</hi>
+                  <note place="margin">Eph. 6. 2.</note> 
+                  <hi>thy father and thy mother, which is the firſt Commandment with promiſe:</hi> S. <hi>James</hi> doth ſecond S. <hi>Paul,</hi> ſaying, <hi>If ye ful<g ref="char:EOLhyphen"/>fill</hi>
+                  <note place="margin">Iam. 2. 8.</note> 
+                  <hi>the royall Law according to the Scripture, Thou ſhalt love thy neighbour as thy ſelf, ye do well:</hi> and the Apoſtle <hi>John,</hi> in his Epiſtle, doeth ſet on this Doctrine, as you may eaſily obſerve.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>9</label> Ninthly, <hi>Beleevers before and after Chriſts time, have recko<g ref="char:EOLhyphen"/>ned themſelves to be under the dutie and obligation of this Law: David, Hezekiah, Joſiah,</hi> with many others, ſtand upon record for their reſpect to Gods commandments, and walking in the way of his will. <hi>Zachary</hi> and <hi>Elizabeth</hi> kept them cloſe to the Morall Law, <hi>Luke</hi> 1. 6. And <hi>Paul</hi> did not onely <hi>conſent</hi>
+                  <note place="margin">Rom 7 16 22</note> 
+                  <hi>to the Law that it was good;</hi> And <hi>delight in it after the inner man:</hi> but he profeſſeth, <hi>that with his minde he himſelf did ſerve the</hi>
+                  <note place="margin">25</note> 
+                  <hi>Law of God.</hi> Mark the phraſe, he did ſerve the Law which expreſly notes his obligation by it, and obedience to it: nay, the whole ſeed of the woman, with whom the Dragon
+<pb n="20" facs="tcp:125162:15"/>
+makes war, are ſaid <hi>to keep the Commandments of God,</hi> as well<note place="margin">Rev. 12. 17</note> as to have <hi>the testimony of Jeſus Chriſt.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>10</label> Tenthly, <hi>The Morall Law ſhall be a rule for Gods judging of men at the laſt day;</hi> hence ſaith the Apoſtle, <hi>So ſpeak ye, and ſo do, as they that ſhall be judged by the Law of liberty, Jam.</hi> 2. 12. In which Scripture we ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obſerve, that in the day of judge<g ref="char:EOLhyphen"/>ment God will call men to account for words and actions: and that the rule upon, or by which he will proceed with men, is his Law; its clear by the Scripture, that the Law ſhall at the laſt day be condemning and judging unto impenitent and un<g ref="char:EOLhyphen"/>beleeving ſinners; Hence ſaith Chriſt, <hi>Do not think that I will accuſe you to the Father, there is one that accuſeth you, even</hi> Moſes, <hi>in whom ye truſt, John</hi> 5. 45. And again the Apoſtle ſaith, <hi>As many as have ſinned in the Law, ſhall be judged by the Law, Rom.</hi> 2. 12. Where it is plain, that the wilfull breach of the Morall Law ſhall be imputed to every childe of <hi>Adam,</hi> unto juſt condemnation; ſuch as have the Law written in their hearts ſhall be condemned, becauſe they did not obey the Law, as it was revealed to them: ſuch as have the Law more clearly written in the Scriptures, and do violate it that ſhall condemn them; not but that men ſhall be judged in that day according to the Goſpel, <hi>Rom.</hi> 2. 16. Now then if God ſhall make the Law Morall his rule by which he will proceed to judgement at the laſt day. I conclude, it is not made void by the Doctrine of Faith; it was to me ſtrange Di<g ref="char:EOLhyphen"/>vinity which one of the <hi>new lights</hi> vented in publike, ſaying. <hi>That the Morall Law ſhall be a rule for God to condemn an unbe<g ref="char:EOLhyphen"/>leever by, but it is no rule for him to walk by.</hi> I wonld ask of this man, how men do draw their inditements againſt <hi>tiplers and quarrellers</hi> in the countrey? Is there not a Law broken, which ſhould have been obſerved; and becauſe its not obſer<g ref="char:EOLhyphen"/>ved, doth not the penaltie come upon a man; doth not that ſtrengthen the Law to judge and condemn man? Doth not all judging and condemning by the Law, both ſtrengthen and inforce the obedience which is principally intended by the Law? I think that the Law neither could have curſed or judged man at all, if his diſobedience had not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade way there<g ref="char:EOLhyphen"/>unto.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:125162:15"/>
+               <speaker>Nomiſt.</speaker>
+               <p>I ſhall deſire you to ſhew me how the Doctrine of the Go<g ref="char:EOLhyphen"/>ſpel, which is called, The Law of Faith, doth eſtabliſh and confirm the authority and obligation of the Morall Law?</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>Sir, I hope that you can tell how to diſtinguiſh between the making of the Morall Law to be a Law, and the main<g ref="char:EOLhyphen"/>taining or ſtrengthning of it, being ſo made, we teach that there is no efficiency or cauſalitie in the Grace or Doctrine of Faith to make the Morall Law, it had no other Authour then God, the great Law-giver and Law-maker.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>I yeeld to this, and do look upon the Doctrine of Faith, as maintaining or making ſtrong the Law to be a rule for life, and would fain be ſatisfied in the wayes how this is done.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>I do conceive that the Morall Law receiveth ſtrength and confirmation by the Doctrine of Faith theſe 12. wayes.<note place="margin">The Goſpel doth ſtabliſh the Law 12 wayes.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, as it holds no contrarietie or diſagreement, but ra<g ref="char:EOLhyphen"/>ther an harmony or conſent with it in the main matters of du<g ref="char:EOLhyphen"/>tie and obedience: in this ſence I may ſay as doth the Apoſtle, <hi>Is the Law againſt the promiſes of God? God forbid:</hi> What,<note place="margin">Gal 3 21.</note> doth the Law ſay one thing and the Goſpel ſay another? I ſpeak to the matter in hand: and do averre that the Goſpel and the word of Free Grace directs men to no other obedi<g ref="char:EOLhyphen"/>ence, then that of which the Law is formally or virtually the rule: Vice in the Law, is Vice in the Goſpel; and Vertue in the Law, is Vertue in the Goſpel; as it is the ſame water which runs thorow ſeverall Pipes; ſo it is the ſame obedience which is conteined in the Law and in the Goſpel; they have but one minde of God in them, and do ſpeak the ſame things; the work of duty in both, is co-ordinate and ſub-ordinate, not con<g ref="char:EOLhyphen"/>trary or repugnant.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Do they agree in all things for dutie?</p>
+            </sp>
+            <sp>
+               <speaker>Evangelist.</speaker>
+               <p>You may note theſe two things.</p>
+               <p>
+                  <pb n="22" facs="tcp:125162:16"/>1. That though they do both declare and require duties ſhewing what is to be done and forborn, yet the Doctrine of Faith hath more helps, or more obliging vertue and abilitie then the Law hath or can afford; the Doctrine of the Law is on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>larative; that of the Goſpel is alſo effective and ope<g ref="char:EOLhyphen"/>rative. 2. That the Doctrine of Faith doth require the exerciſe of ſome duties and graces, in a more ſpeciall and de<g ref="char:EOLhyphen"/>termining way then the Doctrine of the Law doth: I ſhall in<g ref="char:EOLhyphen"/>ſtance in this one point; That man ſhould beleeve what ever God would have him to beleeve is a duty of the Morall Law; but that mans Faith ſhould determine itſelf in the Son of God, apprehending and applying his righteouſneſſe for juſtification in Gods ſight; This is a dutie of the Goſpel: I conceive that juſtifying Faith is formally req<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ired in the Goſpel, at the moſt but virtually commanded in the Law of <hi>Moſes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Proceed I pray you.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, As it ſets up God in ſupreame authority and ſoveraigntie, ſetling upon him power to make and give Lawes in an obliging way unto the ſons of men; the Goſpel teacheth, that <hi>There is one Law-giver, who is able to ſave</hi>
+                  <note place="margin">Jam. 4 12.</note> 
+                  <hi>and deſtroy.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, As it doth maintain the Law to be a Copie of Gods will, every way holy and uſefull unto the ſons of men;<note place="margin">I am. 2. 8.</note> the Morall Law is called, The <hi>Royall Law,</hi> becauſe it is the minde of the great King of heaven; It is the great Kings Law, according to which, every of his Subjects ought to walk, and<note place="margin">Mi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 6 8.</note> to order their lives and converſations; <hi>he hath ſhewed thee, O man, what is good, and what the Lord thy God requireth of thee, &amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, As it doth ſet men neceſſarily into a way and courſe of obedience: the Goſpel makes not obedience to Gods will an indifferent or arbitrary, but a neceſſary thing: it is not all one in the Goſpel ſenſe, whether God be obeyed, or not obeyed; whether man repent, or not repent; believe, or not believe; but man is tied and bound by the Doctrine there<g ref="char:EOLhyphen"/>of, ſimply and univ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſally to obedience; it doth teach that it is
+<pb n="13" facs="tcp:125162:16"/>
+better to obey, then to ſtand diſputing againſt duty; and that though the command be repugnant to ſome ſelf reſpects, yet there neither is or can be given any ſufficient reaſon why a man ſhould deny obedience to the Will of God, and not do duty.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, As it doth cry down ſin and licentiouſneſſe: The Goſpel doth not onely ſhew, That <hi>ſin is the tranſgreſſion of Gods Law;</hi> and that which God is ſo diſpleaſed with, that he will moſt ſeverely puniſh; but it doth ſhew it ſelf every way oppoſite to all, even the appearances of wickedneſſe; this <hi>teacheth men to deny ungodlineſſe, and worldly luſts,</hi> and calls up<g ref="char:EOLhyphen"/>on<note place="margin">Tit 2. 11. 2 Cor. 7 1.</note> them to <hi>cleanſe themſelves from all filthineſſe of fleſh and ſpirit.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, As it doth make known a remaining vertue in all the curſes and menaces of the Law: under the Goſpel the be<g ref="char:EOLhyphen"/>lieving ſoul doth flee from the dreadfull ſentence of the Law, to Jeſus Chriſt, even as the man ſlayer did to the Cities of Refuge, ſeeking to repeal all the actions of the Law againſt it ſelf; ſurely if the Goſpel did not make it to be of force, it would not be thus with believers.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Seventhly, As it doth look at the ſatisfaction of the Law ere it alloweth the juſtification of a ſinner: The Goſpel will have men juſtified <hi>per modum justitiae (</hi>) in a way of ſatisfaction unto juſtice, which cannor be done untill that right be done to the Law; the right of the Law muſt be fulfilled in us, as ſa<g ref="char:EOLhyphen"/>tisfaction was made unto it in our names, by our Surety and<note place="margin">Rom 8. 4.</note> Saviour; till when no man is by the Goſpel admitted to love and life.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Eighthly, As it dot give licenſe and liberty to poor ſinners to come in and plead the ſatisfaction of Chriſt to the Law for their diſcharge from that guilt contracted in and through their breaking of the Law: When the Law hath found men to be ſinners, by its ſentence condemned them for the ſame, and left them under many miſerable wounds and horrours; the Goſpel will now admit and give way to them to come in to God, and deal with him for grace and mercy in and for the active and paſſive obedience of Jeſus Chriſt, which is his righteouſneſſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Ninthly, As it doth preſſe to humility, and ſelf-denyall: An
+<pb n="24" facs="tcp:125162:17"/>
+humble ſelf-denying heart is never above duty; all the while the heart is proud and ſelfiſh, its diſobedient, and unfft for du<g ref="char:EOLhyphen"/>ty; where ſelf raigneth, there carnall reaſonings vave maſtery and baſe ends do over-bear the heart, carrying it from duty: Now the Goſpel calls upon men to deny themſelves, and to be lowly minded, and humble hearted; it would have men to looſe their wills in Gods, as the wife doth loſe her name in her husbands.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Tenthly, As it doth ſpring up love to God and man; Love is not the rule, but ſpring of ſound obedience to Gods Law; no affection diſputes leſſe, and doth more, then love; Chriſt puts all obedience on love, and <hi>Paul</hi> puts all love upon Faith; if men love, they cannot but obey; if they believe, they cannot but love; as love is a part of duty, ſo it is a provoker to duty, <hi>The love of Chriſt doth</hi> mightily <hi>conſtrain.</hi>
+                  <note place="margin">2 Cor 5. 14</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> Eleventhly, As it do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h excite men to look up to their helps for performance of obedience: The Goſpel ſheweth to men their work, and the way how to accompliſh their work; it ſets before them all encouragements to be doing, and where all their ſprings of ability for doing lie; eſpecially, it ſets Chriſt before men, not onely as an example of obedience to his Fathers Will, whom they are to follow, but as the ſpring of all-obeying vertue; it teacheth that all power to do and obey, is treaſured up in Jeſus Chriſt, and from him it floweth, even as the ſervice of the naturall members ariſeth from the influence which paſſeth from the head: in one place it ſaith, <hi>Without me you can do nothing:</hi> and in another place, <hi>I am</hi>
+                  <note place="margin">Ioh. 15 4.</note> 
+                  <hi>able to do all things through Chriſt that ſtrengthneth me, Phil.</hi> 4. 13. It woes and wins men to come to Jeſus Chriſt, ſeeking obeying vertue from him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> Laſtly, As it keeps men upon a oourſe of obedience: We reade of the obedience of Faith, and the work of Faith; the Goſpel cannot endure idleneſſe, its for working: in one place it ſaith, <hi>Work out your ſalvation with fear and trembling:</hi> In<note place="margin">Phil. 2. 12. 2 Pet. 1. 10. I<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 2</note> another place, <hi>Give all diligence to make your calling and election ſure:</hi> In a third place, <hi>Sh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w me thy ſaith by thy works.</hi> Thus it is in the Goſpel; works do not juſtifie perſons in Gods <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, yet they juſtifie faith to a mans own conſcience, and all
+<pb n="25" facs="tcp:125162:17"/>
+the world. We are not to be ignorant, that as Faith hath an immediate and primary act, called Application, which is the taking hold of ſpeciall and ſaving objects; ſo it hath a mediate, derived, or reſulting act, called Su<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jection, which is the deli<g ref="char:EOLhyphen"/>very up of the perſon to be ruled and governed by the Lord in all things; the grace of Faith, in life, will make men and women to apply themſelves to keep Gods Commandments with chearfulneſſe; as the Goſpel doth ſhew that God is graci<g ref="char:EOLhyphen"/>ous, ſo it teacheth that man muſt be dutifull; he that ſaid, I am God all-ſuffi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient, ſaid alſo, Walk before me; that covenant which makes God to be a loving Father, doth ſtile Chriſtians obedient children.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>If it might not be troubleſome unto you, I would gladly hear the uſes you made of theſe Doctrines.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>It is meat and drink to me to do my Maſters will, and your Spirituali profit is my ſouls pleaſure. I gladly yeeld to your motion, and do acquaint you, that this Scripture thus opened.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> In the firſt place, doth wipe off that diveliſh ſlander, and unjuſt imputation of the Romaniſts againſt the Proteſtant Di<g ref="char:EOLhyphen"/>vines. <hi>Bellarmine</hi> in his fourth Book, <hi>De juſtification<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and fifth<note place="margin">Bellar. de juſtifi<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4. c. 5.</note> Chapter, uſeth theſe words, <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gitur adverſarii, ut ſupra diximus, in co ponunt Chriſtianam libertatem, ut nulli legi ſubjecti ſint in conſcientia, &amp; coram deo; &amp; Chriſtum habeant pro<g ref="char:punc">▪</g>redemptore, non pro<g ref="char:punc">▪</g>legis-latore;</hi> Moſes <hi>autem cum ſuo Decalogo nihil ad eos pertineat: (i)</hi> The Adverſaries to us do place Chriſtian Liber<g ref="char:EOLhyphen"/>tie in this, that they are altogether freed from the obedience and ſubjection of the Law, ſo that <hi>Moſes</hi> and his Commandments do no way belong to them: We reject this charge as falſe and unjuſt, and do from our hearts abhor any ſuch opinions; we onely teach a freedom from the Law, as men would make it a covenant of Works<g ref="char:punc">▪</g> and ſeek juſtification thereby: we con<g ref="char:EOLhyphen"/>ſtantly and earneſtly maintain, That the Morall Law is a bind<g ref="char:EOLhyphen"/>ing rule for dutie, and ties all ſorts of perſons to the obſerva<g ref="char:EOLhyphen"/>tion of it ſelf, and ſuch who teach otherwiſe we do oppoſe as <hi>Antinomians;</hi> We do not aboliſh the Law, but rather as the Apoſtle ſaith, We eſtabliſh it to be an immutable and perpe<g ref="char:EOLhyphen"/>tuall
+<pb n="26" facs="tcp:125162:18" rendition="simple:additions"/>
+Doctrine and rule of life and holy walking, binding not by a naturall, but a Divine obligation, I ſhall conclude this<g ref="char:punc">▪</g> with the ſaying of a learned Divine, <hi>
+                     <g ref="char:V">Ʋ</g>nanimi conſenſu docemus omnes Chri<g ref="char:EOLhyphen"/>ſtianos</hi>
+                  <note place="margin">
+                     <hi>Andr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>as Rivet</hi> in <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> De<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gi<g ref="char:punc">▪</g> p. 17</note> 
+                  <hi>fid l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gis moralis regulae; directioni, imperio &amp; obli<g ref="char:EOLhyphen"/>gationi ſubjectos eſſe, &amp; omnium mandatorum divinorum, quibus <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liquod officium nobis imponitur; quae libertas non deſtruit legis obligati<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, &amp; obedi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntiam, ſed auget &amp; excitat:</hi> And that the liberty from juſtification by the Law, doth not deſtroy, but in<g ref="char:EOLhyphen"/>creaſe and ſtir up the obligation of, and obedience to the Law. I could, if need were, bring in the Teſtimonie of <hi>Luther, Cal<g ref="char:EOLhyphen"/>vin, B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hemnitius, Zanchius,</hi> with many other learned and godly Divines in all the ages of the Church ſince the Apoſtles dayes, maintaining that the Morall Law is not aboliſhed by the Goſpel in i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s power, to be a rule of life to Chriſtians: ſee Reverend Doctor <hi>Tailor</hi> in his <hi>Regula vitae, pag.</hi> 190. Nay I dare affirm, that never did any one both godly and learned man teach the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>I thank you for this, for I have heard ſome of thoſe who ſay they Preach Free grace, and are not Legall Preachers, ſay that <hi>Luther</hi> is of their judgement, and that their <hi>Honey comb;</hi>
+                  <note place="margin">Eatons <hi>book.</hi> Ttaske. Eaton. Richard<g ref="char:EOLhyphen"/>ſon.</note> 
+                  <hi>Goſpel grounds; The diſcovery of the dangerous dead faith; News from Heaven,</hi> or, <hi>A Treatiſe of Peace:</hi> together with other Books which paſt ſecretly among them, were the milk ſucked out of his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt; nay they give out that learned <hi>Rivet,</hi> whoſe words you have quoted, was wholly of their judge<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>Sir, beleeve me that neither <hi>Luther</hi> or <hi>Rivet,</hi> did ever con<g ref="char:EOLhyphen"/>ceive or teach that the Morall Law was thruſt out of its ruling uſe by the Goſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l; nay, I will looſe all my credit I have with the Churches of God, if I do not prove to them and all the world, that there is not a ſtronger enemie againſt that Sect of Libertines who would a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rogate the Morall Law in its uſe, as I have opened, then <hi>Luther</hi> was: If they dare make him judge in this Controverſie, I ſhall ſtand or fall by his own Sentence: O that the name of this holy man ſhould ſuffer,
+<pb n="27" facs="tcp:125162:18"/>
+as it doth, among Papiſts and Libertines; But leaving this I proceed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly, I did by vertue of this Doctrine juſtifie the pra<g ref="char:EOLhyphen"/>ctice of all ſuch Miniſters who do Preach the Law unto their hearers: Certainly the Miniſters of the Goſpel may and muſt Preach the Law; It is made the note of falſe prophets to ſee<note place="margin">Lam. 2. 14.</note> vain and fooliſh things, and not to diſcover iniquity; O how many are there yet unacquain<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with their heart and their life vileneſſe, becauſe this glaſſe is not ſet open to them, and preſſed upon them? O how many unbroken and unhumbled hearts are there among us, and all becauſe the Law is not Preached; men are yet ſtrongly wedded to their ſins, ſcorn all tenders of mercy; cannot be drawn to think of, much leſſe to welcome Jeſus Chriſt, and all for want of the Preaching of the Law: Was it ever known, that untill the ſoul was bro<g ref="char:EOLhyphen"/>ken and brought low, and <hi>John Baptist</hi> had done his part (which is the work of the Law) that any man was prepared for Jeſus Chriſt? Go out therefore O you Miniſters of God, gird your ſword upon your thighes, and make your arrows keen in the hearts of all obſtinate and rebellious ſinners; Preach down all thoſe who cry down the Preaching of the Law; and Preach you the Law to diſcover men unto them<g ref="char:EOLhyphen"/>ſelves, to drive them to Chriſt, and to keep them on dutie: Know thus much, when you Preach the Law rightly, you Preach ſalvation to them that fear it; as when you Preach the Goſpel, you Preach damnation to them that neglect or con<g ref="char:EOLhyphen"/>temn it: I would have every Miniſter wary in Preaching the Law; Its poſſible that there may be an ill diſpenſation of the Law; The Chyrurgeon that launceth, may do as much hurt as he that doth not uſe the Inſtrument at all; Such as Preach<note place="margin">The Law is to be Prea<g ref="char:EOLhyphen"/>ched.</note> not the Law at all may make dead and looſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earers, and ſuch as Preach the Law too far may make deſperate hearers. The gol<g ref="char:EOLhyphen"/>den mean is to be obſerved: The thing I would is this. 1. I<note place="margin">1<g ref="char:punc">▪</g> 
+                     <hi>With the Goſpel.</hi>
+                  </note> would not have the Law to be Preached alone by it ſelf, with<g ref="char:EOLhyphen"/>out a mixture of ſome of the Promiſes of the Goſpel; The fire hath its heat and light, and a Miniſter ſhould have both Law and Goſpel in his mouth. 2. I would have the Law to be<note place="margin">2 For the Goſpel.</note> Preached<g ref="char:punc">▪</g> as it was publiſhed, for Evangelicall and mercifull
+<pb n="28" facs="tcp:125162:19"/>
+intentions and purpoſes; not for deſtruction and deſparation, but for edification: I finde that it was publiſhed in the hand of a Mediatour, I would have it to be Preached in the ſame hand; he preacheth the Law beſt who preacheth it with reference to Jeſus Chriſt; as I would in Preaching the Law ſhew men h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, ſo I would ſeek thereby to ſave them from hell; the wound ſhould neither be made wider or deeper then the Plai<g ref="char:EOLhyphen"/>ſter, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Your councell is good, and I would that all Gods Miniſters would apply themſelves to this courſe: I verily think that the condition of their hearers do require it; for whereas we have one tender broken-hearted hearer, there are a thouſand ſtubborn-hearted men and women, who need the hammering of the Law: onely give me leave to tell you, that I have heard men thus objecting, That the Preaching of the Law doth af<g ref="char:EOLhyphen"/>fright men, and bring them to deſpair.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>This is the objection of carnall men, who make it their hell upon earth to be diſquieted in their courſe of ſin, the Law na<g ref="char:EOLhyphen"/>kedly encountring wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ſuch, ſhews them ſuch wrath from God, and torment in hell belonging to them, (they in mean time having no eyes to look upon the remedy) that it drives them into totall deſpair; the fault is not in the Law but in themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>I am ſatisfied in this matter, I pray go on.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>3</label> Thirdly, This doth confute the whole rabble of <hi>Antinomi<g ref="char:EOLhyphen"/>ans,</hi> ſuch as were the <hi>Manichees,</hi> the <hi>Marcionites,</hi> the <hi>Monta<g ref="char:EOLhyphen"/>niſts,</hi> the <hi>Muſcovites,</hi> the <hi>Anabaptiſts,</hi> the <hi>Socinians,</hi> together with their off-ſpring and followers the <hi>Antinomians,</hi> a genera<g ref="char:EOLhyphen"/>tion of Libertines, who under a colour of Prea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing and pra<g ref="char:EOLhyphen"/>ctiſing Free grace, fill the land with drunkenneſſe, uncleanneſſe, diſobedience to authority, neglect and ſcorn of dutie, yea, and all manner of licentiouſneſſe, as wofull exprience witneſſeth, and if need were, juſt teſtimony and proof can make good; Antinomianiſme hath been a corrupt and evil tree; and oh
+<pb n="29" facs="tcp:125162:19"/>
+that it were cut down root and branch, that our City and King<g ref="char:EOLhyphen"/>dom might be no more peſtered therewith.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>I beſeech you good Sir, diſcover theſe <hi>Antinomians</hi> unto me, that I may know them.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>You ſhall finde them to be full of ſubtilty and cunning, well knowing that the open profeſſion of themſelves is full of ha<g ref="char:EOLhyphen"/>tred and ſcorn, and yet though they ſhun the name, they are the<note place="margin">Two ſorts of Antinomi<g ref="char:EOLhyphen"/>ans.</note> men, their ſpeech and practiſe will bewray them: wherefore learn that there are two ſorts of <hi>Antinomians.</hi>
+               </p>
+               <p n="1">1. One Doctrinall; Such who in opinion and judgement<note place="margin">1 Doctrinall</note> do preſume to out-law the Law of God, making the Morall Law it ſelf, and the preaching thereof uſeleſſe, both to unbe<g ref="char:EOLhyphen"/>lievers and believers, even a thing abrogated by the Goſpel, which is as clear a diſmiſſion or making void the Law, as can be imagined: there are who do reject the whole Old Teſta<g ref="char:EOLhyphen"/>ment, ſhewing themſelves therein adverſaries to the Law and the Prophets. I mean among our new lights, which I thus evidence by their own ſayings; one of them teacheth, <hi>That no other Word must be preſſed upon men, or preached unto men, but the Goſpel, and the promiſes thereof:</hi> Another ſaith, <hi>That to preach onely the Goſpel, and to cast away</hi> Moſes, <hi>is the true way of preaching, with which few of our Preachers have acquaint<g ref="char:EOLhyphen"/>ance:</hi> Another teacheth, <hi>He that mak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th the Law a Rule of his life, whatever he be in heart, he is a Papist in practice:</hi> And the ſame man was bold to vent, <hi>That the Law was not of force to a believer, no, not as a Rule.</hi> And as if he had not ſpoken e<g ref="char:EOLhyphen"/>nough, his learned brother comes up the next day, ſaying, <hi>I deny that the Law is a Rule for believers; nay, let me tell you, That it is no Rule for the unbelievers to walk by; it ſhall be a Rule for God to condemne him by, but it is no Rule for him to walk by.</hi> Another of them ſaith, <hi>That after a man is juſtified by Christ, he is no more ſubject to the Commandments of the Mo<g ref="char:EOLhyphen"/>rall Law, he muſt do nothing in conſcience of that Law, he must not take himſelf to be bound to or by it.</hi> Nay, let me tell you, beſide this and the like ſtuff vented by them, this they hold a
+<pb n="30" facs="tcp:125162:20"/>
+Rule, That you may not regard any thing that can be ſaid a<g ref="char:EOLhyphen"/>gainſt theſe, or any other of their Tenets, which ſhal be brought out of the Old Teſtament; if you urge them with the Doctrine or examples thereof, as againſt their way, they preſently give you this anſwer; <hi>What do you tell us of theſe things, they con<g ref="char:EOLhyphen"/>cerned Christians before Chriſts time, and were done and ſpoken by men under another Coven<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt and adminſtration of grace and life then we are; ſhew me theſe and theſe things out of the New Teſtament, and then I will hearken to you.</hi> I pray tell me, Is not this to make void the Law, and to be a direct Antino<g ref="char:EOLhyphen"/>mian?</p>
+               <p n="2">2. Another practicall; This you ſhall obſerve, That <hi>a Law<g ref="char:EOLhyphen"/>leſſe</hi>
+                  <note place="margin">2. Practicall.</note> 
+                  <hi>head, a lawleſſe heart, and a lawleſſe life, ſeldome are divided;</hi> Miniſters that preach againſt the Law, do practiſe againſt the Law, though they carry the matter ſmoothly and covertly; and people who are the followers and admi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of ſuch law<g ref="char:EOLhyphen"/>leſſe Preachers, do ſhew themſelves to be ſons of <hi>Belial,</hi> whoſe wills are their Laws; for they do profeſſe, That no Law of <hi>Moſes</hi> ſhall binde them; they trample Gods Commands under their feet, ſaying, <hi>L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t us break their bands aſunder, and</hi>
+                  <note place="margin">Pſal. 2. 3.</note> 
+                  <hi>caſt away their cords from us.</hi> It may be juſtly ſaid of them as it was of <hi>Ephraim; I have written to them the great things of</hi>
+                  <note place="margin">Hoſ. 1. 12.</note> 
+                  <hi>my Law, but they were counted as a ſtrange thing:</hi> Mark well the place, in the Law there was <hi>Honorabilia &amp; eximia;</hi> but the people accounted them <hi>ali<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>na &amp; vilia:</hi> I finde a fivefold evill among theſe men; 1. That they break from the Morall<note place="margin">Five evills in Antino<g ref="char:EOLhyphen"/>mians.</note> Law by falling into forbidden courſes, and yet they can cry, They ſin not; To be drunk, to whore, to lye, to ſteal, &amp;c. with ſuch perſons, is no ſin in them; <hi>What</hi> (ſaith an impudent creature of their way, proſtituting her ſelf to unclenneſſe) <hi>you do think you ſhould ſin if you ſhould lie with me, What Law doth forbid it unto us?</hi> O horrible practiſe! bluſh you Anti<g ref="char:EOLhyphen"/>nomians, who are taught, and do believe, That being in Chriſt, you cannot ſin; or if you do, God cannot ſee it; and <hi>Whether yon r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pent or not repent, it is all one, for they are remit<g ref="char:EOLhyphen"/>ted unto you in an indifferent way.</hi> 2. That they deſpiſe in their hearts, and ſcorn in their ſpeeches all ſuch Chriſtians who will not run wilde with them in their looſe Opinions and
+<pb n="31" facs="tcp:125162:20"/>
+wayes; theſe they reproach under the names of <hi>Duty-mongers, Duty-doers</hi> and followers of Legal Preachers: they ſit in the ſeat of the ſcornful, deriding in a publike way that word of the Law and Goſpel which doth detect and reprove the Doctrines and courſes of licentiouſneſſe: their Principles lead them into moſt ſhamefull and rude behaviour, whilſt they are in hearing of Grave, Learned, and godly Miniſters, who are not of their looſe cut. 3. That they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all into a diſlike of the duties of ho<g ref="char:EOLhyphen"/>lineſſe, and the wayes of godlineſſe: the madneſſe of their mindes is ſuch, that they cry out, <hi>What have we to do with the dungie, dirtie duties of ſanctification; We thank God, through Jeſus Chriſt, that we have nothing to do with them; We have a new Goſpel, that takes us off from Confeſſion of Sins, asking Pardon at Gods hands for Sins; Mourning and repenting for Sin, Faſtings and Humblings, theſe are works for Horn-book Chri<g ref="char:EOLhyphen"/>ſtians:</hi> Nay, they do not ſtick to tell us, <hi>That beleevers are to do duties onely in reſpect of men, for God looks for none at their hands.</hi> 4. That they leave off the Scripture in San<g ref="char:EOLhyphen"/>ctification as litigious, to evidence their eſtate in grace; they are drawn up to the old way of the <hi>Enthuſiaſts,</hi> telling us, That they are aſſured by Lights and Revelations; one of them re<g ref="char:EOLhyphen"/>ports,<note place="margin">Deluſions.</note> That ſince ſhe came under theſe Preachers of Free-grace, <hi>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſus Chriſt</hi> came and took her by the hand, asked her, Why ſhe was ſo ſad? bid her to leave off her mourning for her ſin, and to be cheerfull, for ſhe did greatly diſhonour the Goſpel in be<g ref="char:EOLhyphen"/>ing troubled for her ſins: And another of them reports, That as ſhe was ſitting by the fire, Chriſt came to her, and bade her to pray that ſuch a one who was of her acquaintance might have full aſſurance; which ſhe did, and preſently the partie re<g ref="char:EOLhyphen"/>ceived by a light from heaven full aſſurance. 5. That they make ſuch head againſt the Morall Law, that they do exceed <hi>Papiſts</hi> and <hi>Prelates,</hi> and do equall the fierceſt Perſecuters that ever the Church of God had; the Papiſts blot out the ſecond Commandment onely, and the Prelates the fourth Command<g ref="char:EOLhyphen"/>ment onely, but theſe <hi>uno ictu</hi> deſtroy the whole Law; imita<g ref="char:EOLhyphen"/>ting <hi>Manaſſes</hi> and <hi>Ammon,</hi> who having drawn the people in<g ref="char:EOLhyphen"/>to Idolatry, to hold them the better under it, ſought to ſup<g ref="char:EOLhyphen"/>preſſe the book of the Law; you hold it to be a bold part in
+<pb n="32" facs="tcp:125162:21"/>
+                  <hi>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hoiakim</hi> to cut the Roul in Pieces and to throw it into the fire: You will ſay that the practice of <hi>Antio hus</hi> and <hi>Diocl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſian</hi> was abominable, for they did cut in pieces all the books of the Law which they could come by; making a wicked Edict forbidding the ſame, threatning death to all thoſe with whom this Book was found: I pray tell me, in what is the Practice of the <hi>Antinomians</hi> inferiour to theirs, ſave in this, That they have not the power of Tyrannie in their hands?</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>If this be their Doctrine and their doings, that they caſt off the binding power of <hi>Moſes</hi> Law, as it is a Rule for Service and Obedience, I ſhall deſire to bleſſe my ſelf from them, and to keep me cloſe to thoſe faithfull Miniſters of the Goſpel who do make the Morall Law a Rule for life; and I hope neighbour you will do ſo too.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomian.</speaker>
+               <p>No verily not I: for I am not of Maſter <hi>Evangeliſts</hi> minde, nor do I intend ever to be; once I confeſſe I was of his minde, and did walk by the Law as a Rule, but I muſt tell you, that I was then kept in ſuch bondage and fear, and held ſo cloſe to Dutie and Obedience, that all my Chriſtian Libertie purchaſed for me was denied unto me, I could not do many things which now I do.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>I pray you Sir be intreated to open you ſelf, that we may underſtand one another aright ere we part, it may pleaſe God that ſatisfaction may be given.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomian.</speaker>
+               <p>My meaning is this, That you and ſuch as you are, by Preaching and preſſing the uſe of the Morall Law laid a hea<g ref="char:EOLhyphen"/>vie yoke upon my ſelf and others, kept us in a ſtate of fear and bondage all our dayes; drew us into a way of Popery, and led us about the wood, making the way and work long and tedious unto us: But now, bleſſed be God for Jeſus Chriſt and for the New Light that is revealed to us; We hear the Goſpel, underſtand the Free Grace of God, and have a more eaſie and ſhort cut to heaven then you allow of.</p>
+            </sp>
+            <sp>
+               <pb n="33" facs="tcp:125162:21"/>
+               <speaker>Evangeliſt.</speaker>
+               <p>Surely my friend, I conceive that the yoke of Chriſt is eaſie<g ref="char:punc">▪</g> and his Commandments are not grievous; Nay, the Law, as it is an ordained Rule for life, is the ſweet yoke of Je<g ref="char:EOLhyphen"/>ſus Chriſt, unto which every good Chriſtian doth yeeld a willing and cheerfull obedience, I mean the obedience of chil<g ref="char:EOLhyphen"/>dren not of ſlaves; this I finde, that it is a trouble to Chri<g ref="char:EOLhyphen"/>ſtians, that they are not more obedient to the Law, but it never troubled them that they have been obedient to it, they in their inner man do delight in the Law of God, and it is meat and drink unto them to do the will of their Father, yea, it is their daily prayer, that they may do it. Beſides, the Law preached and preſſed as a rule for life, leads no man directly into Popery; to ſet it up as a covenant of Works, ſo it may lead men into Popery; 'tis not the right doing of dutie out of obedience, in Faith and humility, but the truſting in dutie done, which doth make men Juſticiaries and Papiſts. And further, I muſt tell you, That the Royall Law is a ſtraight Law, and we hold in the Mathematicks, that the ſtraiteſt Line is the ſhorteſt Line, and therefore you do not go about the wood, when you walk by this Line: It is an obſervation of one, That the Morall Law is like to the <hi>Ecliptick</hi> Line, wherein the Sun keeps his courſe, and men and women are like to the Planets, which are on this or that ſide of the Line; if any of them chance to fall into the <hi>Ecliptick</hi> Line, they are neerer the Sun then any other the Planets. I may apply it thus; When Chriſtians walk in Holineſſe and Righteouſneſſe, they are neereſt to God and Chriſt, the Sun of Righteouſneſſe. On the contrary, to caſt off the Law and care of holy walking, and to fall into cour<g ref="char:EOLhyphen"/>ſes of ſin and wickedneſſe, is the going from God and Chriſt: and I ſhall ask you this one queſtion, and let your conſcience anſwer me; Have not you heard the openings of the Goſpel and the Free grace of God in Jeſus Chriſt, by thoſe who are both known and ſetled Miniſters in this City?</p>
+            </sp>
+            <sp>
+               <pb n="34" facs="tcp:125162:22"/>
+               <speaker>Antinomiſt.</speaker>
+               <p>But you do not Preach it purely, you ſeem to lift up Jeſus Chriſt, but on a ſudden you caſt him down; we have ſuch a deal of Law Preached to us, as if we were unbeleevers; and there is ſuch preſſing of men to duty, as if that Chriſt had not ſatisfied Gods juſtice for them.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>Sir, I am glad to hear this come our of your mouth, it ſeems that the Law may be Preached to unbeleevers. I ſee you are not run up ſo high as to deny legall humiliation to be a way to bring men to Chriſt; you onely conceive that the Goſpel would be more purely Preached by us, if that we did not preſſe the Law for dutie; Is the teaching of dutie among you held to be no Goſpel way of teaching? Are you not in the relation of ſons and ſeruants to God? Is not Chriſt as well a King and Lord as a Prieſt? Surely Sir, nor you, nor your Teachers can by the Scriptures prove what you ſay againſt the Law, it is a Doctrine to be taught, and a rule for Chriſtians to walk by.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>Yea Sir, we have ſuch Scripture grounds for our truth, that you and all the world can never diſproove.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>Will you be pleaſed to propound them to us in a methodicall way, and if you can convince us by the Scriptures, we ſhall yeeld to you.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> Yea that I will, and firſt againſt your Preaching of the Law, or making it a Doctrine to be taught, I ſhall bring you theſe Scriptures; That of Chriſt in <hi>Luke 16. 16. The Law and the Prophets were till John:</hi> That of <hi>Paul, Wherefore then</hi>
+                  <note place="margin">Gal 3. 19.</note> 
+                  <hi>ſerveth the Law? it was added becauſe of tranſgreſſions, till the ſeed ſhould come to whom the promiſe was made:</hi> And he ſaith in the ſame Chapter, <hi>But after that Faith is come, we are</hi>
+                  <note place="margin">Verſ. 23.</note>
+                  <pb n="35" facs="tcp:125162:22"/>
+                  <hi>no longer undr a School-maſter.</hi> Out of theſe Scriptures, I thus argue; If the Law was till <hi>John,</hi> till the ſeed ſhould come, and it is no longer a School-maſter unto us; then its uſeleſſe under the Goſpel, and no Doctrine to be taught unto Chri<g ref="char:EOLhyphen"/>ſtians: But thus theſe Scriptures ſay. <hi>Ergo.</hi> What anſwer can be made to this argument?</p>
+            </sp>
+            <sp>
+               <speaker>Evangelist.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>1</label> Sir, I ſhall deſire you to give me leave to open theſe Scrip<g ref="char:EOLhyphen"/>tures unto you, by which you will be able to anſwer your ſelf: for that place of <hi>Luke</hi> it makes nothing to the matter in hand;<note place="margin">
+                     <hi>Luk. 16. 16.</hi> expounded.</note> For 1. Chriſt doth not poſitively deny the uſe of the Law and the Prophets, after the time of <hi>John;</hi> he ſaith, they were till <hi>John;</hi> he doth not ſay that they ſhall be no longer after <hi>John.</hi> 12. We know that after <hi>Johns</hi> Nativity, Preaching, or Martyrdom, the Law and the Prophets were in uſe: there were many Prophets after <hi>Johns</hi> dayes, and the Law continued and was Preached by Chriſt and his Apoſtles after his dayes: Wherefore 3 We muſt learn to diſtinguiſh of the Law and the Prophets. There were typicall Lawes, and there were prefiguring Prophets, ſuch as did foreſhew the coming of Chriſt in the fleſh: Now this kinde of Law, and theſe kinde of Prophets were till <hi>John,</hi> who lived to ſee and point at the ſubſtance of them all, as appeareth in that ſaying of his, <hi>Behold that Lamb of God which taketh away the ſins of the</hi>
+                  <note place="margin">Ioh. 1. 20.</note> 
+                  <hi>world:</hi> And this way our ancient and modern Interpreters do underſtand this Text; not that Chriſt did mean there ſhould be a deſtruction, and an aboliſhment of the Morall Law in its uſe, or the writings of the Prophets in their Doctrines; but he did teach, and inſtruct men in the uſe of the Ceremo<g ref="char:EOLhyphen"/>niall Law; and all that Propheticall Doctrine which did re<g ref="char:EOLhyphen"/>ferre it ſelf unto his Perſon who was to come a Saviour for ſinners, which received a full accompliſhment in him<g ref="char:EOLhyphen"/>ſelf who was the Tr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth: and by how much the more the Goſpel did ſet him out to be come in the Fleſh, by ſo much the more would all forerunning Prophecies, Types, and Fi<g ref="char:EOLhyphen"/>gures of Jeſus Chriſt vaniſh and die: Hence ſaith learned
+<pb n="36" facs="tcp:125162:23"/>
+                  <hi>Rivet, Hoc intelligendum eſſe de lege Prophetante per Figuras,</hi>
+                  <note place="margin">In Exod. 20.</note> 
+                  <hi>non de lege inſtituente mores hominum.</hi> And long before him <hi>Tertullian, Ceſſavit per ad impletionem non per deſtructionem:</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ib 4. co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. <hi>Marc.</hi>
+                  </note> 
+                  <hi>Vide</hi> Ambroſium <hi>Hom. 38. in</hi> Luc. Chryſoſt. Hieronimum, <hi>&amp;c.</hi> Tell me now, Is this place rightly alleadged for your purpoſe? If it be not, then ſee how you are miſled. As for your other Scriptures, I ſhall deſire you to know, the main ſcope of the Apoſtle in that place, is to ſhew that God<note place="margin">
+                     <hi>Gal. 3. 39.</hi> expounded.</note> neither endued the Law of <hi>Moſes</hi> with a juſtifying or an ab<g ref="char:EOLhyphen"/>rogating power, as it could not give life by it ſelf to man, ſo it could not hinder life by the Covenant or Promiſe of Grace: Upon the hearing of this, ſome were ready to ſay; What then, Is the Law a vain thing? <hi>Wherefore then ſerveth the Law?</hi> To this the Apoſtle makes anſwer; <hi>That the Law was added be<g ref="char:EOLhyphen"/>cauſe of tranſgreſſions, untill the ſeed ſhould come, &amp;c. (i. e.)</hi> The whole Moſaicall Law was very ſerviceable, to open and diſcover ſin, in ſuch a way that it made them flee to Chriſt for Sanctuarie, and to learn to caſt all their Faith and expe<g ref="char:EOLhyphen"/>ctation for righteouſneſſe on him: This is all that the Apoſtle aimes at. I ſay, he treats onely of the uſe of the Law in bringing men to Chriſt, that they may be juſtified by him: he ſpeaks, <hi>De juſtificandis, non de juſtificatis:</hi> And of the mo<g ref="char:EOLhyphen"/>leſting not of the ruling office of the Law of Moſes, as <hi>Luther</hi>
+                  <note place="margin">Vide <hi>Luth.</hi> in Com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt.</note> well obſerves; he doth not deſtroy the uſe of it, as a rule, after a man beleeves in Chriſt, but notes the convincing and terrifying power of it, before a man comes to Chriſt. Here is no ground for caſhiering of the Law, as if it were to be excluded the Churches in ſucceeding times, but rather an eſta<g ref="char:EOLhyphen"/>bliſhing of it, to be an excellent and uſefull Doctrine to be taught to the ſons of men, in bringing them to Chriſt.</p>
+               <p>As for that in the five and twentieth Verſe, <hi>After that Faith is come, we are no longer under a School-maſter;</hi> The meaning is the ſame with the former, That we are no longer under the<note place="margin">
+                     <hi>Verſe 25.</hi> 
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> Ceremoniall Law, as it did point and figure out Chriſt unto man, he himſelf being come who was the ſubſtance; Nei<g ref="char:EOLhyphen"/>ther are we under the rigour and ſharpneſſe of the Morall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw; it can and doth no longer rigorouſly exact at our hands
+<pb n="37" facs="tcp:125162:23"/>
+perfect obedience upon pain of damnation; The Apoſtle doth no way ſpeak of the Morall Law, as it is a rule of life for obedience to Gods will; ſo that the Scripture is no way pro<g ref="char:EOLhyphen"/>perly alleadged to your purpoſe: If that we ſhould teach man dependance on t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Law for Juſtification, you had ſaid ſome<g ref="char:EOLhyphen"/>what: What elſe have you to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> Againſt your propounding or obtruding the Morall Law for a rule of life, I ſhall urge you with theſe Scriptures, <hi>Rom. 6. 14. You are not under the Law, but under Grac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Gal. 3. 10. <hi>As many as are of the works of the Law, are under the curſe.</hi> And 1 Tim. 1. 9. <hi>The Law is not made for a righteous man.</hi> Out of theſe Scriptures I thus argue; If the Law be<g ref="char:EOLhyphen"/>long not to the righteous who are under Grace; and if it be a bringing men under the curſe, to urge them to obey the Law; then it's plain that beleevers have nothing to do with the Law, as its an obliging rule: But ſo is this, <hi>Ergo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>2</label> You, with the <hi>Donatiſts,</hi> alleadge Scripture, more for<note place="margin">Hab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt Scriptur<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ad ſpeciem non ad ſa<g ref="char:EOLhyphen"/>latem <hi>Aug. Rom. 6 14.</hi> opened.</note> ſhew then Trueth, as will eaſily appear when I have opened theſe places: for that place in the Romanes it is clear, That the Apoſtle doth intend nothing leſſe then the abſolute diſchar<g ref="char:EOLhyphen"/>ging of Chriſtians from obſervance of, or obedience to the Morall Law: For, 1. He ſpeaketh of mans being under the Law, in the Minatory and Damnatory ſentence thereof; The meaning of the place is this; God having ſet them into favour, and they having obtained their pardon in juſtification, were acquitted from the curſe and damnation of the Law, that could not now any longer hold them under to death; as a malefactour having obtained his Princes pardon, is freed from the ſentence of condemnation under which he did lay with much fear and grief, that death which muſt have be<g ref="char:EOLhyphen"/>fallen him by the Law, was prevented by the coming in of his pardon; thus God had ſet them under his grace, and be<g ref="char:EOLhyphen"/>ſtowed his favour on them, and by this means they were
+<pb n="38" facs="tcp:125162:24"/>
+not under the death of the Law: Now unleſſe you will con<g ref="char:EOLhyphen"/>feſſe, that the giving and granting of a Pardon doth naturally and directly take off all dutie to a mans Soveraign, and give him a diſpenſation to practiſe Rebellion more freely; it can<g ref="char:EOLhyphen"/>not be granted that diſcharges from the damnation of ſin by grace, can take off all loyaltie and dutie unto God in his re<g ref="char:EOLhyphen"/>quirements. 2. It is moſt evident by the following words, that the Apoſtle intends no diſmiſſion from obedience to the Law, for he ſaith, <hi>What, ſhall we ſin, becauſe we are</hi>
+                  <note place="margin">Verſ. 15.</note> 
+                  <hi>not under the Law, but under Grace? God forbid.</hi> Certain<g ref="char:EOLhyphen"/>ly, if by an eſtate of Grace men were totally diſcharged from walking according to the Doctrine and command of the Law, the Apoſtle needed not to have ſpoken of ſinning; it being im<g ref="char:EOLhyphen"/>poſſible that ſuch ſhould ſin who are not tied to keep in com<g ref="char:EOLhyphen"/>paſſe of any Law; <hi>Sin being</hi> (as we all know) <hi>the tranſgreſſion of the Law, 1 John</hi> 3. 4.</p>
+               <p>To that place in the <hi>Galatians,</hi> the ſcope will be a ſuffici<g ref="char:EOLhyphen"/>ent anſwer; <hi>Pauls</hi> drift is to take off men from depending on the works of the Law for their juſtification: this was the in<g ref="char:EOLhyphen"/>fection<note place="margin">Gal 3 10. <hi>opened.</hi>
+                  </note> by the falſe teachers which were crept into the Church at <hi>Galatia,</hi> they had leavened the people with an opinion of merit, who began to be full of pride, and would be little beholding to God for heaven; they would not beg, but buy a place in heaven, and did ſeek by their own works, to become their own Saviours: This practice and doctrine, the Apoſtle ſheweth, was the ready way to bring down a curſe upon them; and this curſe he brings in as an argument to take them off from cleaving to the Law for Juſtification: and the words are as if he ſhould have ſaid, When a man ſhall put himſelf under the Law for Juſtification, ſhall promiſe to himſelf an eſtate of eternall life for his obedience ſake, place his righ<g ref="char:EOLhyphen"/>teouſneſſe in graces received, or duties performed, this man puts himſelf under the curſe: Now tell me, How doth this Scripture overthrow the binding power of the Law to duty? May not a man believe in Chriſt, and obey too? Obedience hath the bleſſing, not the curſe annexed to it.</p>
+               <p>As for that place in <hi>Timothy,</hi> I think it maketh nothing at
+<pb n="39" facs="tcp:125162:24"/>
+all for you; for the Apoſtle ſpeaks of the right managing of the Law, ſaying, <hi>That the Law is good, if a man uſe it lawful<g ref="char:EOLhyphen"/>ly.</hi>
+                  <note place="margin">1 Tim. 1 9. <hi>opened.</hi> Verſ. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Now how is the Law uſed lawfully? Is it not when it is rightly applyed to the puniſhing of offenders? God nor man ever intended that any Law ſhould be made to puniſh good men, or that ſuch ſhould ſuffer under the colour of Law; this were a great abuſe of the Law, and in it no ſmall injury is done to an honeſt man, that the Law, which ſhould be his protecti<g ref="char:EOLhyphen"/>on, ſhould become his puniſhment: nay, he leads them on to ſuch perſons for whom the Law was ordained by way of puniſhment, namely, <hi>The lawleſſe and diſobedient, for the ungod<g ref="char:EOLhyphen"/>ly and for ſinners, for unholy and profane, &amp;c.</hi> This being the proper ſenſe of the place, How doth it take away the Law as a rule of obedience unto Chriſtians? Nay, out of this Scri<g ref="char:EOLhyphen"/>pture I do inferre a Chriſtians obedience to the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw, he is one that walks ſo regularly unto it, that it cannot be juſtly uſed againſt him, as a rod to puniſh him: Beſides this, I anſwer, That the Morall Law is not yet put or given againſt a righteous man as a Bill of Inditement to accuſe him; as a Judge to con<g ref="char:EOLhyphen"/>demn him to puniſhment, or as a rod or whip to compell and force him to obedience; he is carried with ſuch an ingenious ſpirit to obey the Law of God, that <hi>ſaepe legem praevenit &amp; tranſ<g ref="char:EOLhyphen"/>cendit,</hi> as <hi>Chryſoſtome</hi> ſaith, (<hi>i</hi>) he doth prevent the Law; and is (<hi>potius in illa, quam ſub illa</hi>) rather in the Law, or a Law to himſelf, then under the Law, as <hi>Auguſtine</hi> ſaith. I hope Sir you ſee your miſtake, and are convinced that the Scriptures will not own your opinion: Have you any thing elſe to ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Antinomian.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>3</label> Yea Sir I muſt tell you, That our Preachers who have brought my ſelf and others into this way, teach and tell us,<note place="margin">Rom. 7, 6. Verſ. 8. 14</note> That <hi>we are led by the Spirit, and muſt ſerve God in newneſſe of ſpirit, and not in the oldneſſe of the l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tter:</hi> That we are <hi>to perform all acts of obedience</hi> dictamine charitatis (<hi>i. e.) by the inſtructing power and force of love, and not by any Command of the Word, much leſſe of the Morall Law; they reſemble Chri<g ref="char:EOLhyphen"/>ſtians unto trees, which grow not by arguments and commands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="40" facs="tcp:125162:25"/>
+               <speaker>Evangeliſt.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>3</label> Unto what you tell me, I ſhall give you theſe anſwers: 1. That though the Spirit of grace be the ſupreme guide, yet the Scriptures (whereof the Morall Law is a part) are a ſub<g ref="char:EOLhyphen"/>ordinate guide or rule for Chriſtians obedience; Our Divines<note place="margin">Perkins <hi>in</hi> Gal. 23.</note> call the one the inward, and the other the out ward rule, and this I finde, That the Spirit and the Word are in ſuch con<g ref="char:EOLhyphen"/>junction in this work, that he doth guide and leade men into acts of obedience in and by the Law which he himſelf writes in their hearts: God ſaith, <hi>This is my Covenant with them, My</hi>
+                  <note place="margin">Iſa 59 21.</note> 
+                  <hi>Spirit that is upon thee, and my Words which I have put into thy mouth, ſhall not depart out of thy mouth, nor out of the mouth of thy ſeed, nor out of the mouth of thy ſeeds ſeed, ſaith the Lord, from henceforth and forever.</hi> Beſides, <hi>David</hi> ſaith, <hi>Thy Word</hi>
+                  <note place="margin">Pſal. 11<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 105.</note> 
+                  <hi>is a lamp unto my feet, and a light unto my paths.</hi> 2. That the ſerving God in newneſſe of ſpirit, and not in the oldneſſe of the letter, doth onely mean<g ref="char:punc">▪</g> That Chriſtians ſhould yeeld ſpi<g ref="char:EOLhyphen"/>rituall and ſoul-obedience to Gods commands, and not con<g ref="char:EOLhyphen"/>tent themſelves with an externall, formall, and ceremoniall ſerving of him; according to that of Chriſt, <hi>The hour com<g ref="char:EOLhyphen"/>eth,</hi>
+                  <note place="margin">Jo. 4. 23.</note> 
+                  <hi>and now is, when the true Worſhippers ſhall worſhip the Fa<g ref="char:EOLhyphen"/>ther in Spirit and in trueth: for the Father ſeeketh ſuch to wor<g ref="char:EOLhyphen"/>ſhip him.</hi> 3. For that force and power of love, which you make the rule and motive to obedience and dutie, give me leave to ask you, Whether that love you ſpeak of, be not a dutie laid down and required in the word of command? Do you love God and Chriſt, without or upon a command. I conceive you will ſay you do it by vertue of a command. A<g ref="char:EOLhyphen"/>gain, I muſt tell you, that as love ſprings from the com<g ref="char:EOLhyphen"/>mand which enjoyns man to love; ſo it doth manifeſt its life and ſoundneſſe, by looking to the command by way of du<g ref="char:EOLhyphen"/>tifull<note place="margin">Jo. 14 15.</note> obſervance, according to that of Chriſt, <hi>If ye love me, keep my Commandments:</hi> And that of the beloved Diſ<g ref="char:EOLhyphen"/>ciple,<note place="margin">1 Jo. 5. 3.</note> 
+                  <hi>This is the Love of God, that we keep his Command<g ref="char:EOLhyphen"/>ments, and his Commandments are not grievous.</hi> 4. For that compariſon of theirs, I will not ſay it is ſenceleſſe, I am
+<pb n="41" facs="tcp:125162:25"/>
+ſure it is ſtrained, or miſapplied: what though the principle of bearing good fruit lay in that ſap which is incloſed in the root, doth not the tree need outward influence and helps from the Sun, the Ayr, the Soyl, &amp;c.? This cannot be deny<g ref="char:EOLhyphen"/>ed: the caſe is the ſame here Chriſt is the root, and inward principle, without whom a true Believer can do nothing: yet you muſt know that the means of his own appointing, are needfull and neceſſary; he hath ordained Miniſters, and left the Word for the gathering, edifying, and growth of the body; beſides, to make Chriſt an inward principle of obedi<g ref="char:EOLhyphen"/>ence, is to ſet up a Law and Commandment unto men, unleſſe you will ſay there is an obedience without a Law.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>Ere I paſſe from you<g ref="char:punc">▪</g> I will open my heart unto you; when we cannot draw men to our opinion againſt the Law, we do uſe our wits in deviſing ſtrange expreſſions which can hardly be underſtood; or we have our diſtinctious and evaſions, that when men ſhall tell us that we are <hi>Antinomians,</hi> we may ſtoutly deny the ſame: <hi>v. g. We tell them that the Morall Law is Evangelized in the hearts of believers, by the Spirit of our Lord Jeſus:</hi> nay, we take the boldneſſe to ſay, That we onely deny the uſe of the Law as it was in the hand of <hi>Moſes,</hi> not as it is in the hand of Chriſt our Mediatour.</p>
+            </sp>
+            <sp>
+               <speaker>Evangelist.</speaker>
+               <p>It hath been the manner of Heretikes to draw a cloud over their Tenets; by uſing odde and unuſuall expreſſions: and fear<g ref="char:EOLhyphen"/>ing a diſcovery to ſpeak doubtfully, that to they may have a back door to get out at, whereas truth ſeeks no corners, and doth not bluſh to ſhew her face: how to Engliſh your mean<g ref="char:EOLhyphen"/>ing about the Evangelizing of the Law in the hearts of be<g ref="char:EOLhyphen"/>lievers, I as yet cannot; happily I may miſtake your mean<g ref="char:EOLhyphen"/>ing, when your Preachers have told you their ſen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, I ſhall be able to give my anſwer: As for that expreſſion, That they will not admit the Law to be a rule of life, as <hi>Moſes</hi> brought it down from Mount <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> I think <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> weare bound to
+<pb n="42" facs="tcp:125162:26"/>
+the Law, not for <hi>Moſes</hi> ſake, but for the Law-givers ſake; ſurely the Law which <hi>Moſes</hi> did deliver, doth binde us to obe<g ref="char:EOLhyphen"/>dience; let the Miniſtery of it be conſidered in its place; and the matter of it regarded in its place; ſtill in whoſe hands ſoever we conſider it, it is a binding rule for duty, yea and it bindes in this ſenſe, as much as it was in <hi>Moſes</hi> hand, as it is in the hand of any Mediatour; this is but a ſhift let them diſcover the ground for this diſtinction out of Gods Word, and I have done; I mean, That the Morall Law, conſidered in the hand of Chriſt, doth oblige to duty; but not as it was in the hand of <hi>Moſes:</hi> we ſpeak not of the terrour which did accompany the delivery of it on Mount <hi>Sinai:</hi> but of the matter of it as given unto <hi>Moſes,</hi> conſult <hi>Rivet,</hi> and the Authors which are cited by him, and let me, if you be not ſatisfied with this Anſwer, hear further from you.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>I hope Sir, ere you break off, you will give us ſome councell and exhortation touching our reſpect to the Morall Law.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>4</label> Surely it is but need; and indeed it was the cloſing uſe which I made of my diſcourſe, namely, To teach men that it is a duty laying upon them to uphold and maintain the power and uſe of the Law for obedience; and to this end I laid down theſe ſix rules.</p>
+               <p n="1">
+                  <note place="margin">6 Wayes of maintaining the Law.</note>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. That each Chriſtian ſhould ſpend ſome time in the right ſtudying, and thoughtfull meditation of the holy Law of God; take the Book of the Law into your hand, reade it, peruſe it, till you come to underſtand each Commandment in its author, matter, meaning, and uſe: be not ſtrangers unto the minde of God which is laid down in this Law; hereby you ſhall gain acquaintance at home, be made more vile in your eyes, and be<g ref="char:EOLhyphen"/>come the better prepared to enjoy Chriſt with ſweetneſſe.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. That each Chriſtian ſhould look upon the Morall Law with a prizing eye, making each Commandment precious and dead unto it ſelf; Honey was not ſo ſweet, nor Gold ſo pleaſu<g ref="char:EOLhyphen"/>rable
+<pb n="43" facs="tcp:125162:26"/>
+to <hi>David,</hi> as was Gods Commandments; he did eſteem them above all things, and ſo muſt we account highly and worthily of them; this will ſhew that we reverence God himſelf, may prove an excellent means of endearing our affections to them; and keep off all ſcorn and contempton our parts from them.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. That each Chriſtian ſhould let out his affections to ap<g ref="char:EOLhyphen"/>prove of, and take delight in this Morall Law of God: <hi>Paul</hi>
+                  <note place="margin">Rom 7. 16. 22</note> did <hi>conſent to the Law that it was good,</hi> and <hi>did delight in it in his inner man:</hi> And <hi>David</hi> prayeth, <hi>Make me to go in the paths</hi>
+                  <note place="margin">Pſ 119. 35.</note> 
+                  <hi>of thy Commandments, for thy Law is my delight:</hi> It is the na<g ref="char:EOLhyphen"/>ture of faith to make every Commandment of God eaſie and welcome to the ſoul; the Law, conſidered as the Covenant of works, was ſuch a yoke as no man was able to bear; but take it in the dutifull part of it, and each Chriſtian ſhould with joy and delight bear it: <hi>I delight to do thy will, O my God: q. d.</hi>
+                  <note place="margin">Pſal. 40.</note> O Lord, this is that I would do, and deſire to do, and am glad when I can do it.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. That each Chriſtian ſhould fear and tremble to ſin againſt this holy Law of God: I know that in many things we do and ſhall ſin; but yet we muſt fear to ſin, and take heed of willing or wilfull breaches of Gods Law: ſure I am, That acts of diſobedience to Gods Law, may bring upon<note place="margin">1 Theſ. 4. 6, 7.</note> men many temporall afflictions: <hi>Let no man defraud, or go beyond his brother, for God is an avenger of all ſuch things.</hi>
+               </p>
+               <p n="5">
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. That each Chriſtian ſhould apply himſelf to be upright<g ref="char:EOLhyphen"/>ly obedient to the Law of God; we are to expreſſe an inward and an outward conformity to the holy Law of God, know<g ref="char:EOLhyphen"/>ing,<note place="margin">4 Motives to obedience to the Law.</note> 1. That the Law was given to man, that it might be kept and obſerved by man; ſurely obedience was the main thing which God intended in giving the Law. 2. That the conſequent of keeping Gods Commandments, is much gain, and great reward; obedience doth not merit, yet the Scrip<g ref="char:EOLhyphen"/>ture ſaith, <hi>In keeping them there is great reward, Pſal.</hi> 19. 11.<note place="margin">Prov 7. 2. Iſa. 1. 19. Rom 2. 6, 7</note> and we finde that many temporall and heavenly bleſſings are aſſured to ſuch who are obedient to Gods will, his mercy being
+<pb n="44" facs="tcp:125162:27"/>
+From everlaſting to everlaſting, on thoſe who remember <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Commandments to do them, <hi>Pſal.</hi> 103, 17, 18. 3. That it is the glory of knowledge, and the power of affections, to obey the Commandments of God: I conceive, that knowledge is given us, that we may be fit to obey; and affections, to ſtir us up to obedience; and indeed we are very diſhonourable to our ſelves, and loſe the glory and power of our underſtanding and affections, if we fail willingly in our obedience to Gods Law; hence ſaith God, <hi>Keep them therefore, and to them, for this is</hi>
+                  <note place="margin">D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut. 4. 6.</note> 
+                  <hi>your wiſdom and underſtanding, &amp;c.</hi> 4. That conſcionable obedience is a ſpring of ſoul-conſolation: underſtand me rightly; I do not ſay, That a Chriſtians comfort doth origi<g ref="char:EOLhyphen"/>nally ariſe from his obedience to, and obſervance of the Law; neither doth it conſtantly ſpring hence; for experience tel<g ref="char:EOLhyphen"/>leth us, that many times much is done, and yet little warmth or heat doth flow from it to the ſoul: yet this is true, That a Chriſtians comforts are multiplied, maintained, and cheriſh<g ref="char:EOLhyphen"/>ed is and from acts of ſincere obedience to Gods Laws; the heart is not ſo full of horrour and unquietneſſe when it keeps cloſe to duty, as it would be when it hangs looſe to, or omits the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Nomist.</speaker>
+               <p>What is the right way of obedience to Gods Laws?</p>
+            </sp>
+            <sp>
+               <speaker>Evang liſt.</speaker>
+               <p>
+                  <note place="margin">Right obedi<g ref="char:EOLhyphen"/>ence to Gods Law, ſtands in 6 things.</note>It ſtands in theſe ſix things:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, To be humbly obedient: humility of ſpirit is all in all in acts of duty and obedience; we muſt caſt off all thoughts of merit by duty done: he that obſerves Gods Commands to deſerve recompence and reward, or doth pride himſelf in what he doth, is far from the right obſerving Gods Laws, <hi>Luke</hi> 17. 10.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, To be univerſally obedient: Certainly there is ſuch a thing as univerſall obedience; <hi>Then ſhall I not be con<g ref="char:EOLhyphen"/>founded,</hi>
+                  <note place="margin">Pſal. 119. 6</note> 
+                  <hi>when I have reſpect to all thy Commandments,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith <hi>David:</hi> And it was the commendation of <hi>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>chary</hi> and <hi>Eli<g ref="char:EOLhyphen"/>zabeth, That they walked in all the <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and Ordi<g ref="char:EOLhyphen"/>nances</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <pb n="45" facs="tcp:125162:27"/>
+                  <hi>of the Lord blameleſſe.</hi> We are to look to one and all the Commandments of God; we muſt ſet the whole Law of God before us, taking heed of making any difference by obey<g ref="char:EOLhyphen"/>ing in greater, and refuſing in leſſer Commands, or yeelding to thoſe Commands which have a comparative eaſineſſe, and refuſing in thoſe which have a Spirituall ſtrictneſſe or harſh<g ref="char:EOLhyphen"/>neſſe: ſurely we muſt equally hate all ſin, and love all vertue, remembring that of the Apoſtle; <hi>For whoſoever ſhall keep the</hi>
+                  <note place="margin">I am 2. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>whole Law, and yet offend in one point, he is guilty of all.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, To be ſincerely obedient: We muſt let our hearts bear their part in duty; take care that the heart be ſingle, and one, no way ſuffering it to mix with ſin; and be ſure that it be rightly byaſſed in its aims and ends, and this will declare the uprightneſſe of our ſpirits in our obedience to Gods will.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, To be cheerfully obedient: We muſt be willing and glad to obey, ſerving God with a royal, and from a free ſpi<g ref="char:EOLhyphen"/>rit, being ready to put our ſelves upon his work, aſſoon as his minde is revealed to us, <hi>Pſal.</hi> 27. 8. and 110. 2.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, To be tenderly obedient: Which tenderneſſe doth appear in theſe things; 1. A holy fear to do any thing againſt the Law, becauſe it will offend and diſpleaſe God; hence ſaith <hi>David, My heart ſtandeth in awe of thy word:</hi> And <hi>Joſeph</hi>
+                  <note place="margin">Tenderneſſe of obedience in 4 things.</note> durſt not do wickedly, becauſe of Gods diſpleaſure, <hi>Gen.</hi> 39. 9. 2. A manifeſt grief, and heart trouble, upon apprehended breaches of Gods Law; a gracious diſpoſition, is a mourning diſpoſition, it dares not ſay as doth our Libertines, <hi>It doth greatly trouble me, that ever I was troubled for my ſins:</hi> 3. A ſpeedy care to take off the offence, and to make up the breaches between God and a mans ſelf, which can no way be done, but by running to Jeſus Chriſt, who is our Peace-maker. 4. A preciſe watchfulneſſe againſt future offendings and diſpleaſ<g ref="char:EOLhyphen"/>ings, <hi>Ezra</hi> 9. 13, 14.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, To be conſtantly obedient: We are not to change our maſter or our work whilſt we are here below: but in all times, in all places, in all companies, and in all conditions, ſtrive to manifeſt our obedience to Gods Law, <hi>keeping it to the</hi>
+                  <note place="margin">Pſ. 119. 33.</note> 
+                  <hi>end,</hi> knowing that the Commands of God are perpetuall to us,
+<pb n="46" facs="tcp:125162:28"/>
+even ſuch as no time or age can wear out, and our whole life is a time of dutie, and ought to be ſpent in acts of obedience. Say therefore with <hi>David, I will alwayes keep thy Law, for ever and ever, Pſal.</hi> 119. 44.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. That each Chriſtian ſhould reſolvedly and reſolutely, according to his place, maintain and preſerve the authoritie and puritie of Gods Laws: I know that Gods Law is able to defend it ſelf againſt the oppoſitions or riſings up of all the ſons of Belial; yet Chriſtians muſt in this ſhew themſelves to be friends unto Gods Laws, when men riſe up againſt it, and endeavour to detract from its uſe: Now to quit and clear it, a man muſt know no friend, if he be not a friend to the Preaching and practiſe of Gods Law: We give out that we fight for the Laws of the Land; Ought we not much more to contend for the Laws of our God? Shall we ſee men mangle and ſpoil them, and be no way moved there<g ref="char:EOLhyphen"/>with? Rather learn to ſtand on Gods ſide, which is the beſt ſide.</p>
+            </sp>
+            <sp>
+               <speaker>Nomiſt.</speaker>
+               <p>Sir, the day is far ſpent, and all our occaſions do call us away; I and my friend owe you thanks, and for my part I am reſolved to eſtabliſh the Law in its authority, by making it the rule of my life.</p>
+            </sp>
+            <sp>
+               <speaker>Antinomiſt.</speaker>
+               <p>For my part, I intend to acquaint my teachers with what you have ſaid; and if they do not give you a confounding an<g ref="char:EOLhyphen"/>ſwer, then I reſolve to be of your minde: In the mean time, I will not allow the Law to be a rule of my life.</p>
+            </sp>
+            <sp>
+               <speaker>Evangeliſt.</speaker>
+               <p>A good evening I wiſh unto you both, with an happy ſuc<g ref="char:EOLhyphen"/>ceſſe of this conference, not fearing any true report that can be made of my Doctrine; and if any of your Teachers ſhall be pleaſed to anſwer me with Arguments from the Truth, I ſhall be ready to make a Reply.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125162:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
